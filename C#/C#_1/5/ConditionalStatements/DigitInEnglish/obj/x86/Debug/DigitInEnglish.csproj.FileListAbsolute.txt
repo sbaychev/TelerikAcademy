@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\DigitInEnglish\bin\Debug\DigitInEnglish.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\DigitInEnglish\bin\Debug\DigitInEnglish.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\DigitInEnglish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\DigitInEnglish\obj\x86\Debug\DigitInEnglish.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\DigitInEnglish\obj\x86\Debug\DigitInEnglish.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\DigitInEnglish\bin\Debug\DigitInEnglish.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\DigitInEnglish\bin\Debug\DigitInEnglish.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\DigitInEnglish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\DigitInEnglish\obj\x86\Debug\DigitInEnglish.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\DigitInEnglish\obj\x86\Debug\DigitInEnglish.pdb

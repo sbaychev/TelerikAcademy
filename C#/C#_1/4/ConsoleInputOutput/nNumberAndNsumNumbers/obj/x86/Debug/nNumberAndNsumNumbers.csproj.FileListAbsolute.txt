@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nNumberAndNsumNumbers\bin\Debug\nNumberAndNsumNumbers.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nNumberAndNsumNumbers\bin\Debug\nNumberAndNsumNumbers.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\4_Lesson\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.exe
+C:\Users\Stefan\Desktop\C#_Telerik\4_Lesson\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\bin\Debug\nNumberAndNsumNumbers.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\bin\Debug\nNumberAndNsumNumbers.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\4\ConsoleInputOutput\nNumberAndNsumNumbers\obj\x86\Debug\nNumberAndNsumNumbers.pdb

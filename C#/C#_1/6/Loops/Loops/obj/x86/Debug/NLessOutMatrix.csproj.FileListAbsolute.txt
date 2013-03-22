@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\Loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\6_Lesson\Loops\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Stefan\Desktop\C#_Telerik\6_Lesson\Loops\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\Loops\obj\x86\Debug\Loops.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\Loops\obj\x86\Debug\ResolveAssemblyReference.cache

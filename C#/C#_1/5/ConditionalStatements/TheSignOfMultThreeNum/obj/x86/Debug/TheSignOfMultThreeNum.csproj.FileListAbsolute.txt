@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\TheSignOfMultThreeNum\bin\Debug\TheSignOfMultThreeNum.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\TheSignOfMultThreeNum\bin\Debug\TheSignOfMultThreeNum.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\TheSignOfMultThreeNum.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\TheSignOfMultThreeNum.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\TheSignOfMultThreeNum\bin\Debug\TheSignOfMultThreeNum.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\TheSignOfMultThreeNum\bin\Debug\TheSignOfMultThreeNum.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\TheSignOfMultThreeNum.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\TheSignOfMultThreeNum\obj\x86\Debug\TheSignOfMultThreeNum.pdb

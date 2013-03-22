@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\isFemaleBoolean\bin\Release\isFemaleBoolean.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\isFemaleBoolean\bin\Release\isFemaleBoolean.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\isFemaleBoolean\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\isFemaleBoolean\obj\x86\Release\isFemaleBoolean.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\isFemaleBoolean\obj\x86\Release\isFemaleBoolean.pdb

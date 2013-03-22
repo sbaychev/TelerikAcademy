@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\OperatorsExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\OperatorsExpressions\obj\x86\Debug\OperatorsExpressions.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\OperatorsExpressions\obj\x86\Debug\OperatorsExpressions.pdb

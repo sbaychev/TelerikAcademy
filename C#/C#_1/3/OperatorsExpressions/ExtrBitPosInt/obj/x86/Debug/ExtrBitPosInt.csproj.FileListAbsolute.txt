@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ExtrBitPosInt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\ExtrBitPosInt\bin\Debug\ExtrBitPosInt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\ExtrBitPosInt\obj\x86\Debug\ResolveAssemblyReference.cache

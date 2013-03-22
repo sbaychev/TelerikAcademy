@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\MissCat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\MissCat\bin\Debug\MissCat.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\MissCat\bin\Debug\MissCat.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\MissCat\obj\x86\Debug\MissCat.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\MissCat\obj\x86\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\MissCat\obj\x86\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\MissCat\obj\x86\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\MissCat\bin\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\MissCat\bin\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\MissCat\obj\x86\Debug\ResolveAssemblyReference.cache

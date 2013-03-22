@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BoolCheckRem\bin\Debug\BoolCheckRem.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BoolCheckRem\bin\Debug\BoolCheckRem.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BoolCheckRem\bin\Debug\BoolCheckRem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BoolCheckRem\bin\Debug\BoolCheckRem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BoolCheckRem\obj\x86\Debug\BoolCheckRem.pdb

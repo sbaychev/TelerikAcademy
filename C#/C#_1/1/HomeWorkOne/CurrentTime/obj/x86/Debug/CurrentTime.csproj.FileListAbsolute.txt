@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentTime\bin\Debug\CurrentTime.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentTime\bin\Debug\CurrentTime.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentTime\obj\x86\Debug\CurrentTime.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentTime\obj\x86\Debug\CurrentTime.pdb

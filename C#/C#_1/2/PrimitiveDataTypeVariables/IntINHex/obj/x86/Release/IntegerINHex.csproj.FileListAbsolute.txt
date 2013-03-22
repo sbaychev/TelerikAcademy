@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\IntINHex\bin\Release\IntINHex.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\IntINHex\bin\Release\IntINHex.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\IntINHex\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\IntINHex\obj\x86\Release\IntINHex.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\IntINHex\obj\x86\Release\IntINHex.pdb

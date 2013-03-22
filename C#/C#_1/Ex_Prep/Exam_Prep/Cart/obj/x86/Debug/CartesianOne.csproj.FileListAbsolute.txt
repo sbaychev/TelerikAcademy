@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Cart\bin\Debug\Cart.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Cart\bin\Debug\Cart.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Cart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Cart\obj\x86\Debug\Cart.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Cart\obj\x86\Debug\Cart.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Cart\bin\Debug\Cart.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Cart\bin\Debug\Cart.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Cart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Cart\obj\x86\Debug\Cart.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Cart\obj\x86\Debug\Cart.pdb

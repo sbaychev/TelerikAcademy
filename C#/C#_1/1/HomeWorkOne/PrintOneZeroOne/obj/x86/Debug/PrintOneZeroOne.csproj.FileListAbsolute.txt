@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\PrintOneZeroOne\bin\Debug\PrintOneZeroOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\PrintOneZeroOne\bin\Debug\PrintOneZeroOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\PrintOneZeroOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\PrintOneZeroOne\obj\x86\Debug\PrintOneZeroOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\PrintOneZeroOne\obj\x86\Debug\PrintOneZeroOne.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\ConditionalStatements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\ConditionalStatements\obj\x86\Debug\ConditionalStatements.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\ConditionalStatements\obj\x86\Debug\ConditionalStatements.pdb

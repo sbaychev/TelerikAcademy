@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

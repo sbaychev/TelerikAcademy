@@ -1,0 +1,9 @@
+Csharp Exam Preparation:
+
+Revise all powerpoints....lots of details on the exam
+Revise carefully the ppt Exam Prep!!!
+Bitwise Operations where shifting means a number multiplied with two raised on the respective shifted position
+Escape Sequences....
+Casting and Displaying data
+Operator Precedence
+Careful with missing { in IF and other code elements -> looking at the following elements like BREAK; and so on....

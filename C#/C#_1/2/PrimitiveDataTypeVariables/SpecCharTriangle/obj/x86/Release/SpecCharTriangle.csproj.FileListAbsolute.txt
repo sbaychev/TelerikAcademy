@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\SpecCharTriangle\bin\Release\SpecCharTriangle.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\SpecCharTriangle\bin\Release\SpecCharTriangle.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\SpecCharTriangle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\SpecCharTriangle\obj\x86\Release\SpecCharTriangle.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\SpecCharTriangle\obj\x86\Release\SpecCharTriangle.pdb

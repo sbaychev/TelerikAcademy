@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Test Exam\TestExamPartOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Test Exam\TestExamPartOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Test Exam\TestExamPartOne\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Test Exam\TestExamPartOne\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Test Exam\TestExamPartOne\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

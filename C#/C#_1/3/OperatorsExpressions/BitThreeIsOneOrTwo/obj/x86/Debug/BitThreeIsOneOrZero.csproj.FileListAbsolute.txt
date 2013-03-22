@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitThreeIsOneOrTwo\bin\Debug\BitThreeIsOneOrTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitThreeIsOneOrTwo\obj\x86\Debug\ResolveAssemblyReference.cache

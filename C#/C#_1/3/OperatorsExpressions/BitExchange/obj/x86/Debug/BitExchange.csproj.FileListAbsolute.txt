@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitExchange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitExchange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitExchange\obj\x86\Debug\BitExchange.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\BitExchange\obj\x86\Debug\ResolveAssemblyReference.cache

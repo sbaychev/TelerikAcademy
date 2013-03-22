@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\ExamOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\ExamOne\bin\Debug\ExamOne.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\ExamOne\bin\Debug\ExamOne.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\ExamOne\obj\x86\Debug\ExamOne.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\ExamOne\obj\x86\Debug\ExamOne.pdb

@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\FloatORDouble\bin\Debug\FloatORDouble.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\FloatORDouble\bin\Debug\FloatORDouble.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.exe
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\bin\Debug\FloatORDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\bin\Debug\FloatORDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.pdb

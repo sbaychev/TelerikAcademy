@@ -1,0 +1,15 @@
+Lets do this in steps: (b >> i) and (b >> j) move the bits you want to swap to be the first bits.
+
+((b >> i) ^ (b >> j)) then XORs them.
+
+((1U << n) - 1) this expression is simply the number 1111...1 n times (in binary)
+
+So in total x is the result of the XOR, with all the other bits being 0.
+
+(x << i) and (x << j) move the bits back to their right place.
+
+with ((x << i) | (x << j)) all bits that are set in either one is set in the result.
+
+And b ^ ((x << i) | (x << j)) means we XOR the original with the XOR'd bits of both parts. Note that x ^ x ^ y = y so since in both parts the original appears twice in the xor, but the second part only once, we get bit swapping.
+
+http://graphics.stanford.edu/~seander/bithacks.html#SwappingBitsXOR

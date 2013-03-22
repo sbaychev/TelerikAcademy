@@ -1,0 +1,7 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SequencePlusMinus\bin\Debug\SequencePlusMinus.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SequencePlusMinus\bin\Debug\SequencePlusMinus.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SequencePlusMinus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SequencePlusMinus\obj\x86\Debug\SequencePlusMinus.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SequencePlusMinus\obj\x86\Debug\SequencePlusMinus.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\1\HomeWorkOne\SequencePlusMinus\obj\x86\Debug\SequencePlusMinus.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\1\HomeWorkOne\SequencePlusMinus\obj\x86\Debug\SequencePlusMinus.pdb

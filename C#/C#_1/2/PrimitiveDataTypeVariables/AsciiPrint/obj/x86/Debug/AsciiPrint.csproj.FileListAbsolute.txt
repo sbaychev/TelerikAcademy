@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\AsciiPrint\bin\Debug\AsciiPrint.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\AsciiPrint\bin\Debug\AsciiPrint.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\AsciiPrint.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\AsciiPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\AsciiPrint\bin\Debug\AsciiPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\AsciiPrint\bin\Debug\AsciiPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\AsciiPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\AsciiPrint\obj\x86\Debug\AsciiPrint.pdb

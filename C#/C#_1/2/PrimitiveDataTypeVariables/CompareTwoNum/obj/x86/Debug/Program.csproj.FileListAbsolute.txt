@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\bin\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\bin\Debug\Test_1.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\Test_1.pdb

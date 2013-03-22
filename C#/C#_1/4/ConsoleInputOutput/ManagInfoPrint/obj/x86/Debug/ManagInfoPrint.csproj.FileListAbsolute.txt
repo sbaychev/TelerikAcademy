@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\ManagInfoPrint\bin\Debug\ManagInfoPrint.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\ManagInfoPrint\bin\Debug\ManagInfoPrint.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ManagInfoPrint.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ManagInfoPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ManagInfoPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ManagInfoPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\ManagInfoPrint\bin\Debug\ManagInfoPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\ManagInfoPrint\bin\Debug\ManagInfoPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\ManagInfoPrint\obj\x86\Debug\ResolveAssemblyReference.cache

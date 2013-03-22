@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartesianCoordinateSystem", "CartesianCoordinateSystem\CartesianCoordinateSystem.csproj", "{BD3B3BD7-0802-4CFA-BA5C-23840CF66989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissCat", "MissCat\MissCat.csproj", "{C7A2D9D9-B1E2-466A-A964-B39FAD2AB75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestRoad", "ForestRoad\ForestRoad.csproj", "{CF586CDF-6A35-47B4-BBD0-3CE8AC9137F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDigitCount", "BinaryDigitCount\BinaryDigitCount.csproj", "{B0A6D1A1-B8D4-4827-8F0C-55E2F5487726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSetSum", "SubSetSum\SubSetSum.csproj", "{421FFB0D-30B9-4E26-8034-234242960694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_5_Subset_Sums", "ConsoleApplication2\Problem_5_Subset_Sums.csproj", "{059C1B7B-C927-4BB5-844C-E0D4B793E609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3B3BD7-0802-4CFA-BA5C-23840CF66989}.Debug|x86.ActiveCfg = Debug|x86
+		{BD3B3BD7-0802-4CFA-BA5C-23840CF66989}.Debug|x86.Build.0 = Debug|x86
+		{BD3B3BD7-0802-4CFA-BA5C-23840CF66989}.Release|x86.ActiveCfg = Release|x86
+		{BD3B3BD7-0802-4CFA-BA5C-23840CF66989}.Release|x86.Build.0 = Release|x86
+		{C7A2D9D9-B1E2-466A-A964-B39FAD2AB75F}.Debug|x86.ActiveCfg = Debug|x86
+		{C7A2D9D9-B1E2-466A-A964-B39FAD2AB75F}.Debug|x86.Build.0 = Debug|x86
+		{C7A2D9D9-B1E2-466A-A964-B39FAD2AB75F}.Release|x86.ActiveCfg = Release|x86
+		{C7A2D9D9-B1E2-466A-A964-B39FAD2AB75F}.Release|x86.Build.0 = Release|x86
+		{CF586CDF-6A35-47B4-BBD0-3CE8AC9137F8}.Debug|x86.ActiveCfg = Debug|x86
+		{CF586CDF-6A35-47B4-BBD0-3CE8AC9137F8}.Debug|x86.Build.0 = Debug|x86
+		{CF586CDF-6A35-47B4-BBD0-3CE8AC9137F8}.Release|x86.ActiveCfg = Release|x86
+		{CF586CDF-6A35-47B4-BBD0-3CE8AC9137F8}.Release|x86.Build.0 = Release|x86
+		{B0A6D1A1-B8D4-4827-8F0C-55E2F5487726}.Debug|x86.ActiveCfg = Debug|x86
+		{B0A6D1A1-B8D4-4827-8F0C-55E2F5487726}.Debug|x86.Build.0 = Debug|x86
+		{B0A6D1A1-B8D4-4827-8F0C-55E2F5487726}.Release|x86.ActiveCfg = Release|x86
+		{B0A6D1A1-B8D4-4827-8F0C-55E2F5487726}.Release|x86.Build.0 = Release|x86
+		{421FFB0D-30B9-4E26-8034-234242960694}.Debug|x86.ActiveCfg = Debug|x86
+		{421FFB0D-30B9-4E26-8034-234242960694}.Debug|x86.Build.0 = Debug|x86
+		{421FFB0D-30B9-4E26-8034-234242960694}.Release|x86.ActiveCfg = Release|x86
+		{421FFB0D-30B9-4E26-8034-234242960694}.Release|x86.Build.0 = Release|x86
+		{059C1B7B-C927-4BB5-844C-E0D4B793E609}.Debug|x86.ActiveCfg = Debug|x86
+		{059C1B7B-C927-4BB5-844C-E0D4B793E609}.Debug|x86.Build.0 = Debug|x86
+		{059C1B7B-C927-4BB5-844C-E0D4B793E609}.Release|x86.ActiveCfg = Release|x86
+		{059C1B7B-C927-4BB5-844C-E0D4B793E609}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

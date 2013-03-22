@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\OneToN\bin\Debug\OneToN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\OneToN\bin\Debug\OneToN.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\OneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\OneToN\obj\x86\Debug\OneToN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Loops\OneToN\obj\x86\Debug\OneToN.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\6_Lesson\Loops\OneToN\obj\x86\Debug\OneToN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\6_Lesson\Loops\OneToN\obj\x86\Debug\OneToN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\OneToN\obj\x86\Debug\OneToN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\OneToN\obj\x86\Debug\OneToN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\OneToN\bin\Debug\OneToN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\OneToN\bin\Debug\OneToN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\6\Loops\OneToN\obj\x86\Debug\ResolveAssemblyReference.cache

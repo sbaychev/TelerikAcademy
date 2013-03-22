@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nReadPrintsOneToN\bin\Debug\nReadPrintsOneToN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nReadPrintsOneToN\bin\Debug\nReadPrintsOneToN.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\nReadPrintsOneToN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\nReadPrintsOneToN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nReadPrintsOneToN\bin\Debug\nReadPrintsOneToN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nReadPrintsOneToN\bin\Debug\nReadPrintsOneToN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\nReadPrintsOneToN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\nReadPrintsOneToN\obj\x86\Debug\nReadPrintsOneToN.pdb

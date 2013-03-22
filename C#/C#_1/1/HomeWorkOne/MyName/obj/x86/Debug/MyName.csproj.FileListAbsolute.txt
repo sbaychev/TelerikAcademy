@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\MyName\bin\Debug\MyName.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\MyName\bin\Debug\MyName.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\MyName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\MyName\obj\x86\Debug\MyName.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\MyName\obj\x86\Debug\MyName.pdb

@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\BinaryDigitCount\bin\Debug\BinaryDigitCount.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\BinaryDigitCount\bin\Debug\BinaryDigitCount.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\BinaryDigitCount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\BinaryDigitCount\obj\x86\Debug\BinaryDigitCount.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\BinaryDigitCount\obj\x86\Debug\BinaryDigitCount.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\BinaryDigitCount\obj\x86\Debug\BinaryDigitCount.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\BinaryDigitCount\obj\x86\Debug\BinaryDigitCount.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\BinaryDigitCount\bin\Debug\BinaryDigitCount.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\BinaryDigitCount\bin\Debug\BinaryDigitCount.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\BinaryDigitCount\obj\x86\Debug\ResolveAssemblyReference.cache

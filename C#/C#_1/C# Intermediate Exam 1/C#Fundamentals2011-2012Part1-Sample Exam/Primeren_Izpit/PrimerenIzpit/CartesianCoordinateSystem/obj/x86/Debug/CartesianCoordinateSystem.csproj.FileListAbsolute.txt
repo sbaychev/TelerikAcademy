@@ -1,0 +1,10 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\CartesianCoordinateSystem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\CartesianCoordinateSystem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\CartesianCoordinateSystem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\CartesianCoordinateSystem\obj\x86\Debug\CartesianCoordinateSystem.pdb

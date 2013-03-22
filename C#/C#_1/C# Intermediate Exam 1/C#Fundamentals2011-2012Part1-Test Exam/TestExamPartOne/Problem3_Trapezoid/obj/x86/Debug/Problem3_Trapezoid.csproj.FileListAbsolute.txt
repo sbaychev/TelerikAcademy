@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Test Exam\TestExamPartOne\Problem3_Trapezoid\bin\Debug\Problem3_Trapezoid.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Test Exam\TestExamPartOne\Problem3_Trapezoid\bin\Debug\Problem3_Trapezoid.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Test Exam\TestExamPartOne\Problem3_Trapezoid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Test Exam\TestExamPartOne\Problem3_Trapezoid\obj\x86\Debug\Problem3_Trapezoid.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Test Exam\TestExamPartOne\Problem3_Trapezoid\obj\x86\Debug\Problem3_Trapezoid.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Exam\Exam\Problem4\bin\Debug\Problem4.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Exam\Exam\Problem4\bin\Debug\Problem4.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Exam\Exam\Problem4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Exam\Exam\Problem4\obj\x86\Debug\Problem4.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Exam\Exam\Problem4\obj\x86\Debug\Problem4.pdb

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\NullValuesIntDouble\obj\x86\Debug\NullValuesIntDouble.pdb

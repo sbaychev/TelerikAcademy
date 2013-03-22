@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\StringsConcatCast\bin\Debug\StringsConcatCast.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\StringsConcatCast\bin\Debug\StringsConcatCast.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.exe
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\bin\Debug\StringsConcatCast.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\bin\Debug\StringsConcatCast.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\StringsConcatCast\obj\x86\Debug\StringsConcatCast.pdb

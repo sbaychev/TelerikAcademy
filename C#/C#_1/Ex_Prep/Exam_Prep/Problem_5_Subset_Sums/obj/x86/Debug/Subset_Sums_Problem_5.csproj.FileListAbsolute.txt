@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Problem_5_Subset_Sums\bin\Debug\Problem_5_Subset_Sums.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Problem_5_Subset_Sums\bin\Debug\Problem_5_Subset_Sums.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Problem_5_Subset_Sums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Problem_5_Subset_Sums\obj\x86\Debug\Problem_5_Subset_Sums.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ExamOne\Problem_5_Subset_Sums\obj\x86\Debug\Problem_5_Subset_Sums.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Problem_5_Subset_Sums\obj\x86\Debug\Problem_5_Subset_Sums.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Problem_5_Subset_Sums\obj\x86\Debug\Problem_5_Subset_Sums.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Problem_5_Subset_Sums\bin\Debug\Problem_5_Subset_Sums.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Problem_5_Subset_Sums\bin\Debug\Problem_5_Subset_Sums.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Ex_Prep\Problem_5_Subset_Sums\obj\x86\Debug\ResolveAssemblyReference.cache

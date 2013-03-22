@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+</head>
+	<body>
+	<form name = "Student InfoForm">
+		<table border>
+		<tr>
+		<td/><label/>Last Name
+		<td/><input type="text" name="lastName" size="40"/>
+		</tr>
+		<tr>
+		<td/><label/>First Name
+		<td/><input type = "text" name="firstName" size="40"/>
+		</tr>
+		<tr>
+		<td/><label/>Address
+		<td/><textarea name = "address" rows="5" cols="40"></textarea>
+		</tr>
+		<tr>
+			<td><label>City&#32;<label/></td>
+			<td><input type="text" name="city" size="30"/><label>&#32;State&#32;</label><input type="text" name="state" size="10"/></td>
+		</tr>
+		<tr>
+			<td><label/>Zip/Postal Code</td>
+			<td><input type="text" name="post code" /></td>
+		</tr>
+		<tr>
+		<td><label>Country</label></td>
+		<td/><select name="country" />
+			<option value="Value 1">Afganistan</option>
+			<option value="Value 2">Akrotiri</option>
+			<option value="Value 3">Bulgaria</option>
+			<option value="Value 4">Heard Island and McDonald Islands</option>
+		</tr>
+		<tr><td><label>Phone&#32;(country&#32;code,&#32;area&#32;code,&#32;number)</label></td>
+				<td><label>&#32;&#40;&#43;&#32;</label><input type="text" name="phone1" value="359" size="4"/>
+					<label>&#32;&#41;&#32;</label><input type="text" name="phone2" size="6"/>
+					<label>&#32;&#45;&#32;</label><input type="text" name="phone3" size="12"/>
+				</td>
+		</tr>
+		<tr><td><label>Email</label><td/><input type="email" required="true" pattern="[^ @]*@[^ @].[^ @]" size="40" /></td></tr>
+		<tr>
+			<td><label>Birth Date</label>
+			</td>
+			<td><label>&#32;Month&#32;</label><input type="text" name="month" size="1"/>
+				<label>&#32;Day&#32;</label><input type="text" name="day" size="1"/>	
+				<label>&#32;Year&#32;(4&#32;digit)&#32;</label><input type="text" name="year" size="4"/>
+			</td>			
+		</tr>
+		<tr>
+			<td><label>Gender</label>
+			</td>
+			<td>
+			<select name="gender">
+			<option>male
+			<option>female
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td><label>Starting date</label>
+			</td>
+			<td>
+				<input type="radio" name="starting date" value="spring"><label>Spring 2006</label>
+				<input type="radio" name="starting date" value="summer"><label>Summer 2006</label>
+			</td>
+		</tr>
+		<tr>
+			<td><label>Comments/Questions</label>
+			</td>
+			<td><textarea name = "comments and questions" rows="5" cols="40"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#DDEEFF" colspan = "2" align="center">
+			<input type="submit" value="Submit">
+			<input type="reset" value="Clear This Form">
+			</td>
+		</tr>
+
+		</table>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\EmployeeRecord\bin\Debug\EmployeeRecord.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\EmployeeRecord\bin\Debug\EmployeeRecord.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\EmployeeRecord\bin\Debug\EmployeeRecord.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\EmployeeRecord\bin\Debug\EmployeeRecord.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\EmployeeRecord\obj\x86\Debug\EmployeeRecord.pdb

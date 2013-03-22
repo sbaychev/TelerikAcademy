@@ -1,0 +1,7 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\bin\Debug\CurrentAgeAfterTen.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\bin\Debug\CurrentAgeAfterTen.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\obj\x86\Debug\CurrentAgeAfterTen.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\obj\x86\Debug\CurrentAgeAfterTen.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\obj\x86\Debug\CurrentAgeAfterTen.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\1\HomeWorkOne\CurrentAgeAfterTen\obj\x86\Debug\CurrentAgeAfterTen.pdb

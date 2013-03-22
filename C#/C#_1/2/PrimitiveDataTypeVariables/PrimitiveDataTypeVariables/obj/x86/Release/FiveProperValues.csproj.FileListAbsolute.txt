@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\PrimitiveDataTypeVariables\bin\Release\PrimitiveDataTypeVariables.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\PrimitiveDataTypeVariables\bin\Release\PrimitiveDataTypeVariables.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\PrimitiveDataTypeVariables\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\PrimitiveDataTypeVariables\obj\x86\Release\PrimitiveDataTypeVariables.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\PrimitiveDataTypeVariables\obj\x86\Release\PrimitiveDataTypeVariables.pdb

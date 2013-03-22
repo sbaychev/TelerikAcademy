@@ -1,0 +1,10 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\MissCat\bin\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\MissCat\bin\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\MissCat\bin\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\MissCat\bin\Debug\MissCat.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\MissCat.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\MissCat\obj\x86\Debug\MissCat.pdb

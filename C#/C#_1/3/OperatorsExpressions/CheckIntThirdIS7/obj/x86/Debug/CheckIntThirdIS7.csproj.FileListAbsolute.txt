@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\CheckIntThirdIS7\bin\Debug\CheckIntThirdIS7.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\CheckIntThirdIS7\bin\Debug\CheckIntThirdIS7.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.exe
+C:\Users\Stefan\Desktop\C#_Telerik\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\CheckIntThirdIS7\bin\Debug\CheckIntThirdIS7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\CheckIntThirdIS7\bin\Debug\CheckIntThirdIS7.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\3_Lesson\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\3\OperatorsExpressions\CheckIntThirdIS7\obj\x86\Debug\CheckIntThirdIS7.pdb

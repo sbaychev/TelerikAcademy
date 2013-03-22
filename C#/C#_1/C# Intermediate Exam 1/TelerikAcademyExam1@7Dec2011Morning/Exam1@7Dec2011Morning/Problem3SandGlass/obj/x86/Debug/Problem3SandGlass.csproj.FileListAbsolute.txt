@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\TelerikAcademyExam1@7Dec2011Morning\Exam1@7Dec2011Morning\Problem3SandGlass\bin\Debug\Problem3SandGlass.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\TelerikAcademyExam1@7Dec2011Morning\Exam1@7Dec2011Morning\Problem3SandGlass\bin\Debug\Problem3SandGlass.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\TelerikAcademyExam1@7Dec2011Morning\Exam1@7Dec2011Morning\Problem3SandGlass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\TelerikAcademyExam1@7Dec2011Morning\Exam1@7Dec2011Morning\Problem3SandGlass\obj\x86\Debug\Problem3SandGlass.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\TelerikAcademyExam1@7Dec2011Morning\Exam1@7Dec2011Morning\Problem3SandGlass\obj\x86\Debug\Problem3SandGlass.pdb

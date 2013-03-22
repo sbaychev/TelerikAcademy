@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\QuadrRealRoots\bin\Debug\QuadrRealRoots.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\QuadrRealRoots\bin\Debug\QuadrRealRoots.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\QuadrRealRoots.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\QuadrRealRoots.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\QuadrRealRoots\bin\Debug\QuadrRealRoots.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\QuadrRealRoots\bin\Debug\QuadrRealRoots.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\QuadrRealRoots.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\QuadrRealRoots\obj\x86\Debug\QuadrRealRoots.pdb

@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\GreatOFive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\GreatOFive\bin\Debug\GreatOFive.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\GreatOFive\bin\Debug\GreatOFive.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\GreatOFive\obj\x86\Debug\GreatOFive.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConditionalStatements\GreatOFive\obj\x86\Debug\GreatOFive.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\GreatOFive\obj\x86\Debug\GreatOFive.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\GreatOFive\obj\x86\Debug\GreatOFive.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\GreatOFive\bin\Debug\GreatOFive.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\GreatOFive\bin\Debug\GreatOFive.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\5\ConditionalStatements\GreatOFive\obj\x86\Debug\ResolveAssemblyReference.cache

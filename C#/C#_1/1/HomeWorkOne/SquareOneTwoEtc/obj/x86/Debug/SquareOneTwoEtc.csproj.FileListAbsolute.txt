@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SquareOneTwoEtc\bin\Debug\SquareOneTwoEtc.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SquareOneTwoEtc\bin\Debug\SquareOneTwoEtc.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SquareOneTwoEtc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SquareOneTwoEtc\obj\x86\Debug\SquareOneTwoEtc.exe
+C:\Users\stefan\Google Drive\Telerik Academy\C#_One\1\HomeWorkOne\SquareOneTwoEtc\obj\x86\Debug\SquareOneTwoEtc.pdb

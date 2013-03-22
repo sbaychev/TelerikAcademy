@@ -1,0 +1,18 @@
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\bin\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\bin\Debug\Test_1.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\Test_1\obj\x86\Debug\Test_1.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.exe
+C:\Users\Stefan\Desktop\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.pdb
+I:\Stefan\Academy\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.exe
+I:\Stefan\Academy\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\bin\Debug\Test_1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\bin\Debug\Test_1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Academy_OLD\C#_Telerik\2_Lesson\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\2\PrimitiveDataTypeVariables\CompareTwoNum\obj\x86\Debug\Test_1.pdb

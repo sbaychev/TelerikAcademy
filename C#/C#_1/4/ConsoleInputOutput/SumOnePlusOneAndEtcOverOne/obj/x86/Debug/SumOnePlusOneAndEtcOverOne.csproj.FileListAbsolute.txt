@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\bin\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\bin\Debug\SumOnePlusOneAndEtcOverOne.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\Stefan\Desktop\C#_Telerik\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\4_Lesson\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\Stefan\Desktop\C#_Telerik\4_Lesson\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\bin\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\bin\Debug\SumOnePlusOneAndEtcOverOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 1_One\C#_One\4\ConsoleInputOutput\SumOnePlusOneAndEtcOverOne\obj\x86\Debug\SumOnePlusOneAndEtcOverOne.pdb

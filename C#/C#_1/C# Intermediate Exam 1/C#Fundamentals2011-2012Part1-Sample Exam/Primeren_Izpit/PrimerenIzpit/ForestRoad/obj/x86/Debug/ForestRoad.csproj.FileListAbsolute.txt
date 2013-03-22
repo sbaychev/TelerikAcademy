@@ -1,0 +1,12 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\bin\Debug\ForestRoad.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\bin\Debug\ForestRoad.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\Practical_Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\bin\Debug\ForestRoad.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\bin\Debug\ForestRoad.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Fundamentals 2011-2012 Part 1 - Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part One\C#_One\C# Intermediate Exam 1\C#Fundamentals2011-2012Part1-Sample Exam\Primeren_Izpit\PrimerenIzpit\ForestRoad\obj\x86\Debug\ForestRoad.pdb
