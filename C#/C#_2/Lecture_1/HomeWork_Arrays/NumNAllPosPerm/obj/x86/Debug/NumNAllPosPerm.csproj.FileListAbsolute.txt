@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NumNAllPosPerm\bin\Debug\NumNAllPosPerm.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NumNAllPosPerm\bin\Debug\NumNAllPosPerm.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NumNAllPosPerm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NumNAllPosPerm\obj\x86\Debug\NumNAllPosPerm.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NumNAllPosPerm\obj\x86\Debug\NumNAllPosPerm.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NumNAllPosPerm\bin\Debug\NumNAllPosPerm.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NumNAllPosPerm\bin\Debug\NumNAllPosPerm.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NumNAllPosPerm\obj\x86\Debug\NumNAllPosPerm.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NumNAllPosPerm\obj\x86\Debug\NumNAllPosPerm.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\Methods\bin\Debug\HelloName.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\Methods\bin\Debug\HelloName.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\Methods\obj\x86\Debug\1_HelloName.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\Methods\obj\x86\Debug\HelloName.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\Methods\obj\x86\Debug\HelloName.pdb

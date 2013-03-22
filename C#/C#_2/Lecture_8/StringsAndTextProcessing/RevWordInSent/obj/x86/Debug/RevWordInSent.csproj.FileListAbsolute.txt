@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevWordInSent\bin\Debug\RevWordInSent.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevWordInSent\bin\Debug\RevWordInSent.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\RevWordInSent.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\RevWordInSent.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\RevWordInSent.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevWordInSent\bin\Debug\RevWordInSent.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevWordInSent\bin\Debug\RevWordInSent.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\RevWordInSent.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevWordInSent\obj\x86\Debug\RevWordInSent.csprojResolveAssemblyReference.cache

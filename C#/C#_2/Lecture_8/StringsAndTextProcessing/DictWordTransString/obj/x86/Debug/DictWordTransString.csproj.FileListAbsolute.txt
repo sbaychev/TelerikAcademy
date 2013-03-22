@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DictWordTransString\bin\Debug\DictWordTransString.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DictWordTransString\bin\Debug\DictWordTransString.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DictWordTransString\obj\x86\Debug\DictWordTransString.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DictWordTransString\obj\x86\Debug\DictWordTransString.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcTriangSurfAreaMethod\bin\Debug\CalcTriangSurfAreaMethod.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcTriangSurfAreaMethod\bin\Debug\CalcTriangSurfAreaMethod.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcTriangSurfAreaMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcTriangSurfAreaMethod\obj\x86\Debug\CalcTriangSurfAreaMethod.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcTriangSurfAreaMethod\obj\x86\Debug\CalcTriangSurfAreaMethod.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcTriangSurfAreaMethod\obj\x86\Debug\CalcTriangSurfAreaMethod.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcTriangSurfAreaMethod\obj\x86\Debug\CalcTriangSurfAreaMethod.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcTriangSurfAreaMethod\bin\Debug\CalcTriangSurfAreaMethod.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcTriangSurfAreaMethod\bin\Debug\CalcTriangSurfAreaMethod.pdb

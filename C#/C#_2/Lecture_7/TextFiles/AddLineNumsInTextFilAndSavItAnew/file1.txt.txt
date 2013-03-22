@@ -1,0 +1,7 @@
+1.Write a program that reads a text file and inserts 
+2.line numbers in front of each of its lines. 
+3.The result should be written to another text file.
+4.Write a program that compares two text files line by 
+5.line and prints the number of lines that are the same 
+6.and the number of lines that are different. 
+7.Assume the files have equal number of lines.

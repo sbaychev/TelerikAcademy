@@ -1,0 +1,5 @@
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\LastDigitInEngl\bin\Debug\LastDigitInEngl.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\LastDigitInEngl\bin\Debug\LastDigitInEngl.pdb
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\LastDigitInEngl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\LastDigitInEngl\obj\x86\Debug\LastDigitInEngl.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\LastDigitInEngl\obj\x86\Debug\LastDigitInEngl.pdb

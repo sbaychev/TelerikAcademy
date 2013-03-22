@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\bin\Debug\CalcSumAvrgProdMinMax.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\bin\Debug\CalcSumAvrgProdMinMax.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\bin\Debug\CalcSumAvrgProdMinMax.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\obj\Debug\_14_CalcSumAvrgProdMinMax.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\obj\Debug\CalcSumAvrgProdMinMax.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CalcSumAvrgProdMinMax\obj\Debug\CalcSumAvrgProdMinMax.pdb

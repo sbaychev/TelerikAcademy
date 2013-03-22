@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.pdb

@@ -1,0 +1,10 @@
+div{
+
+	border: solid red 3px;
+	padding: 5px;
+	margin: auto;
+	background: #dedede;
+	width: 500px;
+	box-shadow: 2in 2in 12in grey;
+	border-radius: 10px;
+}

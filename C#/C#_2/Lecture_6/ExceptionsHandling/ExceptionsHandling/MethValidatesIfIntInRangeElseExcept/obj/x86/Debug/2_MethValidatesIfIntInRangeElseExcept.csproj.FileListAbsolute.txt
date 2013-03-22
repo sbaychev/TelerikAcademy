@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\MethValidatesIfIntInRangeElseExcept\obj\x86\Debug\MethValidatesIfIntInRangeElseExcept.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\MethValidatesIfIntInRangeElseExcept\obj\x86\Debug\MethValidatesIfIntInRangeElseExcept.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\MethValidatesIfIntInRangeElseExcept\bin\Debug\MethValidatesIfIntInRangeElseExcept.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\MethValidatesIfIntInRangeElseExcept\bin\Debug\MethValidatesIfIntInRangeElseExcept.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\MethValidatesIfIntInRangeElseExcept\obj\x86\Debug\2_MethValidatesIfIntInRangeElseExcept.csprojResolveAssemblyReference.cache

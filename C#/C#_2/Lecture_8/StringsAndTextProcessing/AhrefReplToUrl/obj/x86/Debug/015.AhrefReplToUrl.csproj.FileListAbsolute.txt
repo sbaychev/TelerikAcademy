@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\AhrefReplToUrl\obj\x86\Debug\AhrefReplToUrl.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\AhrefReplToUrl\obj\x86\Debug\AhrefReplToUrl.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\AhrefReplToUrl\bin\Debug\AhrefReplToUrl.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\AhrefReplToUrl\bin\Debug\AhrefReplToUrl.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\AhrefReplToUrl\obj\x86\Debug\015.AhrefReplToUrl.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\TwoArrComp\bin\Debug\TwoArrComp.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\TwoArrComp\bin\Debug\TwoArrComp.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\TwoArrComp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\7_Lesson\Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\7_Lesson\Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwoArrComp\bin\Debug\TwoArrComp.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwoArrComp\bin\Debug\TwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwoArrComp\obj\x86\Debug\TwoArrComp.csprojResolveAssemblyReference.cache

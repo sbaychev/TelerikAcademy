@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AllwordsStartPrefDel\bin\Debug\AllwordsStartPrefDel.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AllwordsStartPrefDel\bin\Debug\AllwordsStartPrefDel.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AllwordsStartPrefDel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AllwordsStartPrefDel\obj\x86\Debug\AllwordsStartPrefDel.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AllwordsStartPrefDel\obj\x86\Debug\AllwordsStartPrefDel.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AllwordsStartPrefDel\obj\x86\Debug\AllwordsStartPrefDel.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AllwordsStartPrefDel\obj\x86\Debug\AllwordsStartPrefDel.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AllwordsStartPrefDel\bin\Debug\AllwordsStartPrefDel.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AllwordsStartPrefDel\bin\Debug\AllwordsStartPrefDel.pdb

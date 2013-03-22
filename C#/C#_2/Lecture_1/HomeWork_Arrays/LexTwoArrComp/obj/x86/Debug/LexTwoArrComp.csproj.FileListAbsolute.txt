@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\LexTwoArrComp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\LexTwoArrComp\bin\Debug\LexTwoArrComp.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\LexTwoArrComp\bin\Debug\LexTwoArrComp.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\LexTwoArrComp\obj\x86\Debug\LexTwoArrComp.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\LexTwoArrComp\obj\x86\Debug\LexTwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\LexTwoArrComp\bin\Debug\LexTwoArrComp.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\LexTwoArrComp\bin\Debug\LexTwoArrComp.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\LexTwoArrComp\obj\x86\Debug\LexTwoArrComp.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\LexTwoArrComp\obj\x86\Debug\LexTwoArrComp.pdb

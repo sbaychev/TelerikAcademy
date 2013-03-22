@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsReadStrPrintLetAndTimesLet\bin\Debug\ConsReadStrPrintLetAndTimesLet.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsReadStrPrintLetAndTimesLet\bin\Debug\ConsReadStrPrintLetAndTimesLet.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsReadStrPrintLetAndTimesLet\obj\x86\Debug\ConsReadStrPrintLetAndTimesLet.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsReadStrPrintLetAndTimesLet\obj\x86\Debug\ConsReadStrPrintLetAndTimesLet.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsReadStrPrintLetAndTimesLet\obj\x86\Debug\ConsReadStrPrintLetAndTimesLet.csprojResolveAssemblyReference.cache

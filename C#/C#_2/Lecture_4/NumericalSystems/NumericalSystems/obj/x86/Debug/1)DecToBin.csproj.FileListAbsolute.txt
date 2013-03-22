@@ -1,0 +1,7 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\NumericalSystems\obj\x86\Debug\DecToBin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\NumericalSystems\obj\x86\Debug\DecToBin.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\NumericalSystems\bin\Debug\DecToBin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\NumericalSystems\bin\Debug\DecToBin.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\NumericalSystems\obj\x86\Debug\1)DecToBin.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson\NumericalSystems\NumericalSystems\obj\x86\Debug\DecToBin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson\NumericalSystems\NumericalSystems\obj\x86\Debug\DecToBin.pdb

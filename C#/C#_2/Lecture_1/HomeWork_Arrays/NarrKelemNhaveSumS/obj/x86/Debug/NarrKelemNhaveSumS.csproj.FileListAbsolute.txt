@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NarrKelemNhaveSumS\bin\Debug\NarrKelemNhaveSumS.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NarrKelemNhaveSumS\bin\Debug\NarrKelemNhaveSumS.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NarrKelemNhaveSumS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NarrKelemNhaveSumS\obj\x86\Debug\NarrKelemNhaveSumS.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NarrKelemNhaveSumS\obj\x86\Debug\NarrKelemNhaveSumS.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NarrKelemNhaveSumS\bin\Debug\NarrKelemNhaveSumS.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NarrKelemNhaveSumS\bin\Debug\NarrKelemNhaveSumS.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NarrKelemNhaveSumS\obj\x86\Debug\NarrKelemNhaveSumS.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NarrKelemNhaveSumS\obj\x86\Debug\NarrKelemNhaveSumS.pdb

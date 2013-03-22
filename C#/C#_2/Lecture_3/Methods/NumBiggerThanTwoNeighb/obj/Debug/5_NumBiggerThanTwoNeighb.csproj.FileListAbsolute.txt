@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\bin\Debug\NumBiggerThanTwoNeighb.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\bin\Debug\NumBiggerThanTwoNeighb.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\bin\Debug\NumBiggerThanTwoNeighb.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\obj\Debug\5_NumBiggerThanTwoNeighb.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\obj\Debug\NumBiggerThanTwoNeighb.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\NumBiggerThanTwoNeighb\obj\Debug\NumBiggerThanTwoNeighb.pdb

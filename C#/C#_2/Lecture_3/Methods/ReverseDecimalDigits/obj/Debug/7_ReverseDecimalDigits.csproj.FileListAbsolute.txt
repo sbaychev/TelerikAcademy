@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\obj\Debug\7_ReverseDecimalDigits.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.pdb

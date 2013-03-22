@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\bin\Debug\DescribeStrings.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\bin\Debug\DescribeStrings.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\bin\Debug\DescribeStrings.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\obj\Debug\1.DescribeStrings.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\obj\Debug\DescribeStrings.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\obj\Debug\DescribeStrings.pdb

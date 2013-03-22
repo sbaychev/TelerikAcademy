@@ -1,0 +1,3 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\TwoPol\bin\Debug\TwoPol.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\TwoPol\obj\Debug\TwoPol.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\TwoPol\obj\Debug\TwoPol.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\2.RevStrAndPrint.csprojResolveAssemblyReference.cache

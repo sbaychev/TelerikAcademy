@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MaxSequeOfEquElem\obj\x86\Debug\MaxSequeOfEquElem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MaxSequeOfEquElem\obj\x86\Debug\MaxSequeOfEquElem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MaxSequeOfEquElem\bin\Debug\MaxSequeOfEquElem.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MaxSequeOfEquElem\bin\Debug\MaxSequeOfEquElem.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MaxSequeOfEquElem\obj\x86\Debug\4_MaxSequeOfEquElem.csprojResolveAssemblyReference.cache

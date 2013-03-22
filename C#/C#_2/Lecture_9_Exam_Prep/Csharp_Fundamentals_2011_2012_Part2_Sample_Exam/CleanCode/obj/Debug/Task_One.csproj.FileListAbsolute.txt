@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\obj\Debug\Task_One.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Csharp_Fundamentals_2011_2012_Part2_Sample_Exam\CleanCode\obj\Debug\CleanCode.pdb

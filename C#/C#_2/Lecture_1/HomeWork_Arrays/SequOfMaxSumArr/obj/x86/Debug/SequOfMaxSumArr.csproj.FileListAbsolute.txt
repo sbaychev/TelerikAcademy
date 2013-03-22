@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\SequOfMaxSumArr\bin\Debug\SequOfMaxSumArr.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\SequOfMaxSumArr\bin\Debug\SequOfMaxSumArr.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\SequOfMaxSumArr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\SequOfMaxSumArr\obj\x86\Debug\SequOfMaxSumArr.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\SequOfMaxSumArr\obj\x86\Debug\SequOfMaxSumArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\SequOfMaxSumArr\bin\Debug\SequOfMaxSumArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\SequOfMaxSumArr\bin\Debug\SequOfMaxSumArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\SequOfMaxSumArr\obj\x86\Debug\SequOfMaxSumArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\SequOfMaxSumArr\obj\x86\Debug\SequOfMaxSumArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\SequOfMaxSumArr\obj\x86\Debug\SequOfMaxSumArr.csprojResolveAssemblyReference.cache

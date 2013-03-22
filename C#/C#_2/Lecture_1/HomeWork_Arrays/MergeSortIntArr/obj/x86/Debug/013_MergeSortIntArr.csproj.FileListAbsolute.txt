@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MergeSortIntArr\obj\x86\Debug\MergeSortIntArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MergeSortIntArr\obj\x86\Debug\MergeSortIntArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MergeSortIntArr\bin\Debug\MergeSortIntArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MergeSortIntArr\bin\Debug\MergeSortIntArr.pdb

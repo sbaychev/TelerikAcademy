@@ -1,0 +1,85 @@
+html,
+body,
+div,
+p,
+a,
+input,
+ul,
+li,
+fieldset,
+button,
+input,
+select,
+option,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+.current{
+  font-weight: bold;
+}
+body {
+  font-size: 16px;
+  color: #333333;
+}
+li{
+  position:relative;
+  display:block;
+  border-bottom: 1px solid black;
+  width:110px;
+  margin:15px;
+  padding: 5px;
+}
+fieldset legend{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+fieldset{
+    border: 1px solid black;
+    padding: 15px;
+}
+div.popup-content{
+  position: absolute;
+  left:120px;
+  top: 0px;
+  width: 200px;
+}
+a.btn-popup-close{
+  position: absolute;
+  right:5px;
+  top:15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0 5px;
+    color: #333333;
+}
+a.btn-popup-close:hover{
+text-decoration:underline;
+}
+
+button{
+    border-radius: 15px;
+    padding: 5px 10px;
+    background: #666666;
+    background: -webkit-linear-gradient(top, #cccccc 0%, #666666 100%);
+    border: 0;
+    color: #333333;
+}
+button:hover{
+ background: #cccccc;
+}
+li:first-of-type{
+    border-top: 1px solid black;
+}
+.invisible{
+  display:none;
+}
+a{
+  text-decoration: none;
+  color:black;
+   line-height: 25px;
+}
+img{
+ width:25px;
+ height: 25px;
+}

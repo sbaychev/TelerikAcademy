@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\SeqPosValStringCalcAllSum\bin\Debug\SeqPosValStringCalcAllSum.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\SeqPosValStringCalcAllSum\bin\Debug\SeqPosValStringCalcAllSum.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\SeqPosValStringCalcAllSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\SeqPosValStringCalcAllSum\obj\x86\Debug\SeqPosValStringCalcAllSum.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\SeqPosValStringCalcAllSum\obj\x86\Debug\SeqPosValStringCalcAllSum.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\SeqPosValStringCalcAllSum\bin\Debug\SeqPosValStringCalcAllSum.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\SeqPosValStringCalcAllSum\bin\Debug\SeqPosValStringCalcAllSum.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\SeqPosValStringCalcAllSum\obj\x86\Debug\SeqPosValStringCalcAllSum.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\SeqPosValStringCalcAllSum\obj\x86\Debug\SeqPosValStringCalcAllSum.pdb

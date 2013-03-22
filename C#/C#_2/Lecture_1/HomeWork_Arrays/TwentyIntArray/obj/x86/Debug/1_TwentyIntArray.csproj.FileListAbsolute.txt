@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwentyIntArray\bin\Debug\Arrays.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwentyIntArray\bin\Debug\Arrays.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwentyIntArray\obj\x86\Debug\Arrays.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwentyIntArray\obj\x86\Debug\Arrays.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\TwentyIntArray\obj\x86\Debug\1_TwentyIntArray.csprojResolveAssemblyReference.cache

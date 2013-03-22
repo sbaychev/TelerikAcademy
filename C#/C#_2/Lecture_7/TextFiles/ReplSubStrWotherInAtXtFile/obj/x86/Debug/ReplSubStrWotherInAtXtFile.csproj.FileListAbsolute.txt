@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReplSubStrWotherInAtXtFile\bin\Debug\ReplSubStrWotherInAtXtFile.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReplSubStrWotherInAtXtFile\bin\Debug\ReplSubStrWotherInAtXtFile.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ReplSubStrWotherInAtXtFile.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ReplSubStrWotherInAtXtFile.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ReplSubStrWotherInAtXtFile.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ReplSubStrWotherInAtXtFile.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReplSubStrWotherInAtXtFile\bin\Debug\ReplSubStrWotherInAtXtFile.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReplSubStrWotherInAtXtFile\bin\Debug\ReplSubStrWotherInAtXtFile.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReplSubStrWotherInAtXtFile\obj\x86\Debug\ReplSubStrWotherInAtXtFile.csprojResolveAssemblyReference.cache

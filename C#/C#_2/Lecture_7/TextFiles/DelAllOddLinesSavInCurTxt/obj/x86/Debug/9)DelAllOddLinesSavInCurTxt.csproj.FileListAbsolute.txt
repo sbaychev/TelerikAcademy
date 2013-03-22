@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.pdb

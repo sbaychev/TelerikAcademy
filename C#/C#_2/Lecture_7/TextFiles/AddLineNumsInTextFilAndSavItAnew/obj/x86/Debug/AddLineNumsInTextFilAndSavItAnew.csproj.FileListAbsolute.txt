@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AddLineNumsInTextFilAndSavItAnew\bin\Debug\AddLineNumsInTextFilAndSavItAnew.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AddLineNumsInTextFilAndSavItAnew\bin\Debug\AddLineNumsInTextFilAndSavItAnew.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AddLineNumsInTextFilAndSavItAnew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AddLineNumsInTextFilAndSavItAnew\obj\x86\Debug\AddLineNumsInTextFilAndSavItAnew.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\AddLineNumsInTextFilAndSavItAnew\obj\x86\Debug\AddLineNumsInTextFilAndSavItAnew.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AddLineNumsInTextFilAndSavItAnew\obj\x86\Debug\AddLineNumsInTextFilAndSavItAnew.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\AddLineNumsInTextFilAndSavItAnew\obj\x86\Debug\AddLineNumsInTextFilAndSavItAnew.pdb

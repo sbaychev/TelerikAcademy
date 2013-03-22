@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IndexViaBinSearch\bin\Debug\IndexViaBinSearch.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IndexViaBinSearch\bin\Debug\IndexViaBinSearch.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IndexViaBinSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IndexViaBinSearch\obj\x86\Debug\IndexViaBinSearch.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IndexViaBinSearch\obj\x86\Debug\IndexViaBinSearch.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IndexViaBinSearch\bin\Debug\IndexViaBinSearch.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IndexViaBinSearch\bin\Debug\IndexViaBinSearch.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IndexViaBinSearch\obj\x86\Debug\IndexViaBinSearch.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IndexViaBinSearch\obj\x86\Debug\IndexViaBinSearch.pdb

@@ -1,0 +1,1 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\CovertFromAnyNumeral\bin\Debug\CovertFromAnyNumeral.exe.config

@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\PalindromesFromTxt\bin\Debug\PalindromesFromTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\PalindromesFromTxt\bin\Debug\PalindromesFromTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\PalindromesFromTxt\obj\x86\Debug\PalindromesFromTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\PalindromesFromTxt\obj\x86\Debug\PalindromesFromTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\PalindromesFromTxt\obj\x86\Debug\PalindromesFromTxt.csprojResolveAssemblyReference.cache

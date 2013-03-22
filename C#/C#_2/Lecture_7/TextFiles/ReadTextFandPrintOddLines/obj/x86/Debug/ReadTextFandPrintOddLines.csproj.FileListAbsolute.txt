@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\QuickSortStrings\bin\Debug\QuickSortStrings.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\QuickSortStrings\bin\Debug\QuickSortStrings.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\QuickSortStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\QuickSortStrings\obj\x86\Debug\QuickSortStrings.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\QuickSortStrings\obj\x86\Debug\QuickSortStrings.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\QuickSortStrings\bin\Debug\QuickSortStrings.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\QuickSortStrings\bin\Debug\QuickSortStrings.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\QuickSortStrings\obj\x86\Debug\QuickSortStrings.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\QuickSortStrings\obj\x86\Debug\QuickSortStrings.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\QuickSortStrings\obj\x86\Debug\QuickSortStrings.csprojResolveAssemblyReference.cache

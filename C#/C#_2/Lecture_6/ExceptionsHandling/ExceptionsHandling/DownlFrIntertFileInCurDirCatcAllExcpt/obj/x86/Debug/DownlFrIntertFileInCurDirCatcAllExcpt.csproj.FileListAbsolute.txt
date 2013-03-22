@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\bin\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\bin\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\obj\x86\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\obj\x86\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\obj\x86\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\obj\x86\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\bin\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\DownlFrIntertFileInCurDirCatcAllExcpt\bin\Debug\DownlFrIntertFileInCurDirCatcAllExcpt.pdb

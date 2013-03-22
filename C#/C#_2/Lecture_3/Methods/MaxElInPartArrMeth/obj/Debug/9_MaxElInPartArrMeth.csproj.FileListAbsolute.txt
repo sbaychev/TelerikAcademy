@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\bin\Debug\MaxElInPartArrMeth.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\bin\Debug\MaxElInPartArrMeth.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\bin\Debug\MaxElInPartArrMeth.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\obj\Debug\9_MaxElInPartArrMeth.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\obj\Debug\MaxElInPartArrMeth.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\MaxElInPartArrMeth\obj\Debug\MaxElInPartArrMeth.pdb

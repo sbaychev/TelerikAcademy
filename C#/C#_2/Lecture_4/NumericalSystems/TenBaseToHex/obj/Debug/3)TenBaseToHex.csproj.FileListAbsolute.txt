@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\TenBaseToHex\bin\Debug\TenBaseToHex.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\TenBaseToHex\bin\Debug\TenBaseToHex.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\TenBaseToHex\bin\Debug\TenBaseToHex.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\TenBaseToHex\obj\Debug\TenBaseToHex.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_4\9_Lesson_Incomp\NumericalSystems\TenBaseToHex\obj\Debug\TenBaseToHex.pdb

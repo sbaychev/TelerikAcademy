@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\MultiDimArrays\obj\x86\Debug\MultiDimArrays.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\MultiDimArrays\obj\x86\Debug\MultiDimArrays.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\MultiDimArrays\bin\Debug\MultiDimArrays.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\MultiDimArrays\bin\Debug\MultiDimArrays.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson\MultiDimArrays\MultiDimArrays\obj\x86\Debug\MultiDimArrays.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson\MultiDimArrays\MultiDimArrays\obj\x86\Debug\MultiDimArrays.pdb

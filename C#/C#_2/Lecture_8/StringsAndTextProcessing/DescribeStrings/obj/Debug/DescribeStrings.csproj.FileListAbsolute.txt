@@ -1,0 +1,1 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DescribeStrings\bin\Debug\DescribeStrings.exe.config

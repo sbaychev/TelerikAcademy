@@ -1,0 +1,5 @@
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IntInArrIsGreatThanNeighb\bin\Debug\IntInArrIsGreatThanNeighb.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IntInArrIsGreatThanNeighb\bin\Debug\IntInArrIsGreatThanNeighb.pdb
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IntInArrIsGreatThanNeighb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IntInArrIsGreatThanNeighb\obj\x86\Debug\IntInArrIsGreatThanNeighb.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IntInArrIsGreatThanNeighb\obj\x86\Debug\IntInArrIsGreatThanNeighb.pdb

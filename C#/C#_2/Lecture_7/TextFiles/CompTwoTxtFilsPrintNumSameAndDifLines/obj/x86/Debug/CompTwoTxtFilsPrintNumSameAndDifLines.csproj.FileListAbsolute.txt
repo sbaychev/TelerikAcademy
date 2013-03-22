@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\bin\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\bin\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\obj\x86\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\obj\x86\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\obj\x86\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\obj\x86\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\bin\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\CompTwoTxtFilsPrintNumSameAndDifLines\bin\Debug\CompTwoTxtFilsPrintNumSameAndDifLines.pdb

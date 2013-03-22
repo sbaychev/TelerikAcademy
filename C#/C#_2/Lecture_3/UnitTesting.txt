@@ -1,0 +1,11 @@
+Unit Testing
+
+UnitTestProject
+must have reference to Methods
+methods of the UnitTest must be public
+[TestClass]
+
+[TestMethod]
+
+long res = Program.CalcSum();
+Assert.AreEqual(1, res);

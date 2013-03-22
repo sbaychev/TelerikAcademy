@@ -1,0 +1,40 @@
+thead {
+	background-color: #59BC06;
+	color:white;
+	line-height: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-bottom:2px solid #C4C3A8;
+}
+#first{
+	background-color: #FFFFFF;
+}
+#second{
+	background-color: #ECECD8;
+}
+td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+table
+{
+border-collapse:collapse;
+}
+table, td, th
+{
+	border-right:2px solid #C4C3A8;
+	text-align:left;
+	padding-left: 10px;
+	padding-right: 40px;
+	font-family: arial;
+	font-weight: normal;
+}
+input[type="checkbox"]{
+	width:15px; height:15px;
+}
+#four{
+border-right:2px solid white;
+}
+.last{
+	border-bottom:2px solid #C4C3A8;
+}

@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\NumReadPrintHexPercSci\bin\Debug\NumReadPrintHexPercSci.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\NumReadPrintHexPercSci\bin\Debug\NumReadPrintHexPercSci.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\NumReadPrintHexPercSci.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\NumReadPrintHexPercSci.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\NumReadPrintHexPercSci.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\NumReadPrintHexPercSci.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\NumReadPrintHexPercSci\bin\Debug\NumReadPrintHexPercSci.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\NumReadPrintHexPercSci\bin\Debug\NumReadPrintHexPercSci.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\NumReadPrintHexPercSci\obj\x86\Debug\NumReadPrintHexPercSci.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+body{
+background-color:#3B3B3B
+}
+#my-header {
+background-color:#363636
+}
+label {
+color:#FFFFFF
+}
+button {
+background-color:red
+}
+h1 {
+color:#FDD619
+}
+p {
+color:#A6A6A6
+}
+span {
+color:#FFFFFF
+}
+.G {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background-image: url(Go.png);
+  width: 65px;
+  height: 35px;
+  margin-right: 5px;
+  cursor: pointer; 
+ }

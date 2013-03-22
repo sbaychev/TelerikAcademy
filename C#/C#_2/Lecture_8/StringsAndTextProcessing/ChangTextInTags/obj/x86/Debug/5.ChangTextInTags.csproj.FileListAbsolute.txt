@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ChangTextInTags\obj\x86\Debug\ChangTextInTags.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ChangTextInTags\obj\x86\Debug\ChangTextInTags.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ChangTextInTags\bin\Debug\ChangTextInTags.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ChangTextInTags\bin\Debug\ChangTextInTags.pdb

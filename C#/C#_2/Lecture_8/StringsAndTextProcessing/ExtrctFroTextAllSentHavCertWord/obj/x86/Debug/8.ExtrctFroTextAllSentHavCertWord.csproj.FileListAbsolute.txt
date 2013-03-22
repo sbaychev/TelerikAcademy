@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrctFroTextAllSentHavCertWord\obj\x86\Debug\ExtrctFroTextAllSentHavCertWord.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrctFroTextAllSentHavCertWord\bin\Debug\ExtrctFroTextAllSentHavCertWord.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrctFroTextAllSentHavCertWord\bin\Debug\ExtrctFroTextAllSentHavCertWord.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrctFroTextAllSentHavCertWord\obj\x86\Debug\8.ExtrctFroTextAllSentHavCertWord.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrctFroTextAllSentHavCertWord\obj\x86\Debug\ExtrctFroTextAllSentHavCertWord.pdb

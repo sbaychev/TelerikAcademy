@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\bin\Debug\IndexOfElGreatThanNeighb.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\bin\Debug\IndexOfElGreatThanNeighb.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\bin\Debug\IndexOfElGreatThanNeighb.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\obj\Debug\IndexOfElGreatThanNeighb.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\obj\Debug\IndexOfElGreatThanNeighb.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\obj\Debug\6_IndexOfElGreatThanNeighb.csprojResolveAssemblyReference.cache

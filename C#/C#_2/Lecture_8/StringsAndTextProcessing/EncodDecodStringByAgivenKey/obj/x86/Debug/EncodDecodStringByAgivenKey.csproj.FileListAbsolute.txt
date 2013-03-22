@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\EncodDecodStringByAgivenKey\bin\Debug\EncodDecodStringByAgivenKey.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\EncodDecodStringByAgivenKey\bin\Debug\EncodDecodStringByAgivenKey.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\EncodDecodStringByAgivenKey\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\EncodDecodStringByAgivenKey\obj\x86\Debug\EncodDecodStringByAgivenKey.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\EncodDecodStringByAgivenKey\obj\x86\Debug\EncodDecodStringByAgivenKey.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\EncodDecodStringByAgivenKey\obj\x86\Debug\EncodDecodStringByAgivenKey.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\EncodDecodStringByAgivenKey\obj\x86\Debug\EncodDecodStringByAgivenKey.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\EncodDecodStringByAgivenKey\bin\Debug\EncodDecodStringByAgivenKey.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\EncodDecodStringByAgivenKey\bin\Debug\EncodDecodStringByAgivenKey.pdb

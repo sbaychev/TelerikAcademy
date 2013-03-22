@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\AtoZarrReaWorShoInd\bin\Debug\AtoZarrReaWorShoInd.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\AtoZarrReaWorShoInd\bin\Debug\AtoZarrReaWorShoInd.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\AtoZarrReaWorShoInd.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\AtoZarrReaWorShoInd.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\AtoZarrReaWorShoInd\bin\Debug\AtoZarrReaWorShoInd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\AtoZarrReaWorShoInd\bin\Debug\AtoZarrReaWorShoInd.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\AtoZarrReaWorShoInd.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\AtoZarrReaWorShoInd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\AtoZarrReaWorShoInd\obj\x86\Debug\AtoZarrReaWorShoInd.pdb

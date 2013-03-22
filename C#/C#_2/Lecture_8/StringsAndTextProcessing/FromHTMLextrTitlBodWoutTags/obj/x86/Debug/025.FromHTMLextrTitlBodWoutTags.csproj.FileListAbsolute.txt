@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\FromHTMLextrTitlBodWoutTags\obj\x86\Debug\FromHTMLextrTitlBodWoutTags.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\FromHTMLextrTitlBodWoutTags\obj\x86\Debug\FromHTMLextrTitlBodWoutTags.pdb

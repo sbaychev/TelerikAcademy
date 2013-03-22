@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\bin\Debug\AddTwoPosNumRepAsArrDig.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\bin\Debug\AddTwoPosNumRepAsArrDig.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\bin\Debug\AddTwoPosNumRepAsArrDig.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\obj\Debug\AddTwoPosNumRepAsArrDig.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\obj\Debug\AddTwoPosNumRepAsArrDig.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\AddTwoPosNumRepAsArrDig\obj\Debug\AddTwoPosNumRepAsArrDig.pdb

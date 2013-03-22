@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CheckInExprBrackArCorr\bin\Debug\CheckInExprBrackArCorr.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CheckInExprBrackArCorr\bin\Debug\CheckInExprBrackArCorr.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\bin\Debug\CheckInExprBrackArCorr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\bin\Debug\CheckInExprBrackArCorr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.csprojResolveAssemblyReference.cache

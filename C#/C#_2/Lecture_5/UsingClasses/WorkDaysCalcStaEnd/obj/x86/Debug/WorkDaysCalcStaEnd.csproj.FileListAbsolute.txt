@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.pdb

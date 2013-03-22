@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CountSubStrInAText\bin\Debug\CountSubStrInAText.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CountSubStrInAText\bin\Debug\CountSubStrInAText.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\CountSubStrInAText.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\CountSubStrInAText.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\CountSubStrInAText.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\CountSubStrInAText.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CountSubStrInAText\bin\Debug\CountSubStrInAText.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CountSubStrInAText\bin\Debug\CountSubStrInAText.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CountSubStrInAText\obj\x86\Debug\CountSubStrInAText.csprojResolveAssemblyReference.cache

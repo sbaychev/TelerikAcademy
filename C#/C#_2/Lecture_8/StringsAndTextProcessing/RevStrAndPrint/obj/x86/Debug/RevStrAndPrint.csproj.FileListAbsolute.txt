@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\bin\Debug\RevStrAndPrint.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\RevStrAndPrint\obj\x86\Debug\RevStrAndPrint.csprojResolveAssemblyReference.cache

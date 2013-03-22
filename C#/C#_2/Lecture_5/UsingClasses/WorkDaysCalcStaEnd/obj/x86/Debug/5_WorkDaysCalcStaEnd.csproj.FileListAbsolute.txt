@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\bin\Debug\WorkDaysCalcStaEnd.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\5_WorkDaysCalcStaEnd.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\WorkDaysCalcStaEnd\obj\x86\Debug\WorkDaysCalcStaEnd.pdb

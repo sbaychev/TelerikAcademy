@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrAllEmailAddrFromTxt\bin\Debug\ExtrAllEmailAddrFromTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrAllEmailAddrFromTxt\bin\Debug\ExtrAllEmailAddrFromTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrAllEmailAddrFromTxt\obj\x86\Debug\ExtrAllEmailAddrFromTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ExtrAllEmailAddrFromTxt\obj\x86\Debug\ExtrAllEmailAddrFromTxt.pdb

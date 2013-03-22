@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadListWordsInFileCompFileTwSavCouTAlph\obj\x86\Debug\ReadListWordsInFileCompFileTwSavCouTAlph.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadListWordsInFileCompFileTwSavCouTAlph\obj\x86\Debug\ReadListWordsInFileCompFileTwSavCouTAlph.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadListWordsInFileCompFileTwSavCouTAlph\bin\Debug\ReadListWordsInFileCompFileTwSavCouTAlph.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadListWordsInFileCompFileTwSavCouTAlph\bin\Debug\ReadListWordsInFileCompFileTwSavCouTAlph.pdb

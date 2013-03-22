@@ -1,0 +1,27 @@
+*{
+	margin: 0; padding: 0;
+}
+a {
+	padding-left: 15px;
+	font-size: 25px;
+	font-family: "Times New Roman";
+	color: Black;
+	text-decoration: none;
+}
+	
+a:hover {
+	text-decoration: underline;
+}
+	
+.sublist {
+    display: none;
+	padding-left: 30px;
+	font-size: 25px;
+	font-family: "Times New Roman";
+	color: DarkGray;
+}
+
+a:hover + div.sublist {
+    display: block;
+}
+

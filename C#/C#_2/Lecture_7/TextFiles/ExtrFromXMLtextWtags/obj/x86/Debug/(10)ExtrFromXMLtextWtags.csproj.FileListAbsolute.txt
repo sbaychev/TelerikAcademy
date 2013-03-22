@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ExtrFromXMLtextWtags\obj\x86\Debug\ExtrFromXMLtextWtags.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ExtrFromXMLtextWtags\obj\x86\Debug\ExtrFromXMLtextWtags.pdb

@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\bin\Debug\ReadTextFandPrintOddLines.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ReadTextFandPrintOddLines\obj\x86\Debug\ReadTextFandPrintOddLines.pdb

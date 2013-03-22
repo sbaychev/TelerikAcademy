@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\Arrays\obj\x86\Debug\Arrays.pdb

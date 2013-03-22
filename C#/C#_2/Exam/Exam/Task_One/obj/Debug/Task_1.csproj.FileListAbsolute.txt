@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\bin\Debug\Task_One.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\bin\Debug\Task_One.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\bin\Debug\Task_One.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\obj\Debug\Task_One.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Exam\Exam\Task_One\obj\Debug\Task_One.pdb

@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\MostFreqNumInArr\bin\Debug\MostFreqNumInArr.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\MostFreqNumInArr\bin\Debug\MostFreqNumInArr.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\MostFreqNumInArr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\MostFreqNumInArr\obj\x86\Debug\MostFreqNumInArr.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\MostFreqNumInArr\obj\x86\Debug\MostFreqNumInArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MostFreqNumInArr\bin\Debug\MostFreqNumInArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MostFreqNumInArr\bin\Debug\MostFreqNumInArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MostFreqNumInArr\obj\x86\Debug\MostFreqNumInArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MostFreqNumInArr\obj\x86\Debug\MostFreqNumInArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\MostFreqNumInArr\obj\x86\Debug\MostFreqNumInArr.csprojResolveAssemblyReference.cache

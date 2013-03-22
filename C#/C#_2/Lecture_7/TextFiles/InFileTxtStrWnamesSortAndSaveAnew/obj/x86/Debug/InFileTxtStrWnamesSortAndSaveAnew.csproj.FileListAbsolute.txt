@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb

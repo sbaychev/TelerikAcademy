@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ConvStrToUniCLit\bin\Debug\ConvStrToUniCLit.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ConvStrToUniCLit\bin\Debug\ConvStrToUniCLit.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ConvStrToUniCLit.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ConvStrToUniCLit.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ConvStrToUniCLit.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ConvStrToUniCLit.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConvStrToUniCLit\bin\Debug\ConvStrToUniCLit.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConvStrToUniCLit\bin\Debug\ConvStrToUniCLit.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConvStrToUniCLit\obj\x86\Debug\ConvStrToUniCLit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\UsingSystemPrintTheWeekDay\obj\x86\Debug\UsingSystemPrintTheWeekDay.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\UsingSystemPrintTheWeekDay\obj\x86\Debug\UsingSystemPrintTheWeekDay.pdb

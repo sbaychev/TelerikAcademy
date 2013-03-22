@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\obj\x86\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\InFileTxtStrWnamesSortAndSaveAnew\bin\Debug\InFileTxtStrWnamesSortAndSaveAnew.pdb

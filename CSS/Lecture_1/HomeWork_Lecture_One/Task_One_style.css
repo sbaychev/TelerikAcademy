@@ -1,0 +1,50 @@
+#first{
+
+	font-style:oblique;	
+	color: white;
+}
+		
+#circle {
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 5px;
+	width: 12px;
+	height: 12px;
+	background: lightgreen;
+}
+#orange{
+		color: orange;
+		font-weight: bold;
+}
+#red{
+
+	color: red;
+	font-size: medium;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+#camel{
+	
+	color: #F9F6BA;
+}
+#second{
+
+	color:#FFEC8B;
+}
+td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #B5B1B1;
+}
+thead{
+	padding-top: 10px;
+	font-size: medium;
+	font-family: Arial;
+	font-weight:lighter;
+	color: #B5B1B1;
+}
+
+*{					
+	background-color: #585454;
+}

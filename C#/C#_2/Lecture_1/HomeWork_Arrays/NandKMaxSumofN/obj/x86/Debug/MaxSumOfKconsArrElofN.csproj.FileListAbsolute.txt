@@ -1,0 +1,11 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKMaxSumofN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\7_Lesson\Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\7_Lesson\Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.pdb

@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKVariations\bin\Debug\NandKVariations.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKVariations\bin\Debug\NandKVariations.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKVariations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKVariations\obj\x86\Debug\NandKVariations.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\NandKVariations\obj\x86\Debug\NandKVariations.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKVariations\bin\Debug\NandKVariations.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKVariations\bin\Debug\NandKVariations.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKVariations\obj\x86\Debug\NandKVariations.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKVariations\obj\x86\Debug\NandKVariations.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcValOfArtmExprs\bin\Debug\CalcValOfArtmExprs.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcValOfArtmExprs\bin\Debug\CalcValOfArtmExprs.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcValOfArtmExprs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcValOfArtmExprs\obj\x86\Debug\CalcValOfArtmExprs.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\UsingClasses\CalcValOfArtmExprs\obj\x86\Debug\CalcValOfArtmExprs.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcValOfArtmExprs\obj\x86\Debug\CalcValOfArtmExprs.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcValOfArtmExprs\obj\x86\Debug\CalcValOfArtmExprs.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcValOfArtmExprs\bin\Debug\CalcValOfArtmExprs.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\CalcValOfArtmExprs\bin\Debug\CalcValOfArtmExprs.pdb

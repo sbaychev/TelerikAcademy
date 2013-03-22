@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\bin\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\bin\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\obj\x86\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\obj\x86\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\obj\x86\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\obj\x86\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\bin\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ReadCharStrOfTwentyIfAnyEptFilStars\bin\Debug\ReadCharStrOfTwentyIfAnyEptFilStars.pdb

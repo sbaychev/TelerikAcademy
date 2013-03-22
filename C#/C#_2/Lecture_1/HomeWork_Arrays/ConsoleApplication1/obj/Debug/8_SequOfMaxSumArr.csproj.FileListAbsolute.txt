@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\obj\Debug\8_SequOfMaxSumArr.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

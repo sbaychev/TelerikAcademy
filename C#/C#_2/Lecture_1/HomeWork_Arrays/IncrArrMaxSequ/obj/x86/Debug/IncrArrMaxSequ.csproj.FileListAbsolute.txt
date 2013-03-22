@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IncrArrMaxSequ\bin\Debug\IncrArrMaxSequ.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IncrArrMaxSequ\bin\Debug\IncrArrMaxSequ.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IncrArrMaxSequ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IncrArrMaxSequ\obj\x86\Debug\IncrArrMaxSequ.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\IncrArrMaxSequ\obj\x86\Debug\IncrArrMaxSequ.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IncrArrMaxSequ\bin\Debug\IncrArrMaxSequ.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IncrArrMaxSequ\bin\Debug\IncrArrMaxSequ.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IncrArrMaxSequ\obj\x86\Debug\IncrArrMaxSequ.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IncrArrMaxSequ\obj\x86\Debug\IncrArrMaxSequ.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\IncrArrMaxSequ\obj\x86\Debug\IncrArrMaxSequ.csprojResolveAssemblyReference.cache

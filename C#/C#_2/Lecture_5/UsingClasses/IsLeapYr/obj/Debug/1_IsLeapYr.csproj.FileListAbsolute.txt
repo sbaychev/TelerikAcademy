@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\bin\Debug\IsLeapYr.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\bin\Debug\IsLeapYr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\bin\Debug\IsLeapYr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\obj\Debug\IsLeapYr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\obj\Debug\IsLeapYr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_5\UsingClasses\IsLeapYr\obj\Debug\1_IsLeapYr.csprojResolveAssemblyReference.cache

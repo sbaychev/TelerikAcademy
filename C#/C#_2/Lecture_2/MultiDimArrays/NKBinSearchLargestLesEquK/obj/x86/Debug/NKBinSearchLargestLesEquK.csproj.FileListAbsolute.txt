@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\bin\Debug\NKBinSearchLargestLesEquK.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\bin\Debug\NKBinSearchLargestLesEquK.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\NKBinSearchLargestLesEquK.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\NKBinSearchLargestLesEquK.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\bin\Debug\NKBinSearchLargestLesEquK.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\bin\Debug\NKBinSearchLargestLesEquK.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\NKBinSearchLargestLesEquK.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\NKBinSearchLargestLesEquK.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\NKBinSearchLargestLesEquK\obj\x86\Debug\NKBinSearchLargestLesEquK.csprojResolveAssemblyReference.cache

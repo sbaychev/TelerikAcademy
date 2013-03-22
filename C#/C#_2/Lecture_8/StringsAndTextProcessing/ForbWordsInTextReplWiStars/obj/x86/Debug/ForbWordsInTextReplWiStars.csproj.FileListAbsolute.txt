@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ForbWordsInTextReplWiStars\bin\Debug\ForbWordsInTextReplWiStars.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ForbWordsInTextReplWiStars\bin\Debug\ForbWordsInTextReplWiStars.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ForbWordsInTextReplWiStars.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ForbWordsInTextReplWiStars.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ForbWordsInTextReplWiStars.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ForbWordsInTextReplWiStars.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ForbWordsInTextReplWiStars\bin\Debug\ForbWordsInTextReplWiStars.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ForbWordsInTextReplWiStars\bin\Debug\ForbWordsInTextReplWiStars.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ForbWordsInTextReplWiStars\obj\x86\Debug\ForbWordsInTextReplWiStars.csprojResolveAssemblyReference.cache

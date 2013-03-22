@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ConcatTwoTextFileIntOne\bin\Debug\ConcatTwoTextFileIntOne.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ConcatTwoTextFileIntOne\bin\Debug\ConcatTwoTextFileIntOne.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ConcatTwoTextFileIntOne.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ConcatTwoTextFileIntOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ConcatTwoTextFileIntOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ConcatTwoTextFileIntOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ConcatTwoTextFileIntOne\bin\Debug\ConcatTwoTextFileIntOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ConcatTwoTextFileIntOne\bin\Debug\ConcatTwoTextFileIntOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\ConcatTwoTextFileIntOne\obj\x86\Debug\ConcatTwoTextFileIntOne.csprojResolveAssemblyReference.cache

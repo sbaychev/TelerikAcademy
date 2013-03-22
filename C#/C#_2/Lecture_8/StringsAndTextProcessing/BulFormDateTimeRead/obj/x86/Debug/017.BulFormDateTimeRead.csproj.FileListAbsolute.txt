@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\BulFormDateTimeRead\obj\x86\Debug\BulFormDateTimeRead.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\BulFormDateTimeRead\obj\x86\Debug\BulFormDateTimeRead.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\BulFormDateTimeRead\bin\Debug\BulFormDateTimeRead.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\BulFormDateTimeRead\bin\Debug\BulFormDateTimeRead.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\BulFormDateTimeRead\obj\x86\Debug\017.BulFormDateTimeRead.csprojResolveAssemblyReference.cache

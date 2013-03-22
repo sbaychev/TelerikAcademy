@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\bin\Debug\IndexOfElGreatThanNeighb.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\IndexOfElGreatThanNeighb\obj\Debug\IndexOfElGreatThanNeighb.csprojResolveAssemblyReference.cache

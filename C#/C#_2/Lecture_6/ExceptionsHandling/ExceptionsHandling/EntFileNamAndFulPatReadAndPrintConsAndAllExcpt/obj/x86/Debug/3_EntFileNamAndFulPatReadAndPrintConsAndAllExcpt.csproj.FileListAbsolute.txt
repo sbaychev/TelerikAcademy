@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt\obj\x86\Debug\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt\obj\x86\Debug\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt\bin\Debug\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt\bin\Debug\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\EntFileNamAndFulPatReadAndPrintConsAndAllExcpt\obj\x86\Debug\3_EntFileNamAndFulPatReadAndPrintConsAndAllExcpt.csprojResolveAssemblyReference.cache

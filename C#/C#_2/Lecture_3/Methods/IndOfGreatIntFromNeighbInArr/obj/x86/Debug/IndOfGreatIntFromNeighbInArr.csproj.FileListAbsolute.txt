@@ -1,0 +1,5 @@
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IndOfGreatIntFromNeighbInArr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IndOfGreatIntFromNeighbInArr\bin\Debug\IndOfGreatIntFromNeighbInArr.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IndOfGreatIntFromNeighbInArr\bin\Debug\IndOfGreatIntFromNeighbInArr.pdb
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IndOfGreatIntFromNeighbInArr\obj\x86\Debug\IndOfGreatIntFromNeighbInArr.exe
+C:\Documents and Settings\u\Desktop\Stefan\C#_Telerik\Methods\IndOfGreatIntFromNeighbInArr\obj\x86\Debug\IndOfGreatIntFromNeighbInArr.pdb

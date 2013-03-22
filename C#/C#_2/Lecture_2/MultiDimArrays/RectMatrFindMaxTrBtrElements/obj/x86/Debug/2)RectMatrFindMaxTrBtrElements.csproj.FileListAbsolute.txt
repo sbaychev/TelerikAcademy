@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\RectMatrFindMaxTrBtrElements\obj\x86\Debug\RectMatrFindMaxTrBtrElements.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\RectMatrFindMaxTrBtrElements\obj\x86\Debug\RectMatrFindMaxTrBtrElements.pdb

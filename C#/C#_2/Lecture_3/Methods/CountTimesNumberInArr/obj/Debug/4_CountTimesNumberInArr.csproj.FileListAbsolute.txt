@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\bin\Debug\CountTimesNumberInArr.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\obj\Debug\CountTimesNumberInArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\obj\Debug\CountTimesNumberInArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\bin\Debug\CountTimesNumberInArr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\bin\Debug\CountTimesNumberInArr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_3\Methods\CountTimesNumberInArr\obj\Debug\4_CountTimesNumberInArr.csprojResolveAssemblyReference.cache

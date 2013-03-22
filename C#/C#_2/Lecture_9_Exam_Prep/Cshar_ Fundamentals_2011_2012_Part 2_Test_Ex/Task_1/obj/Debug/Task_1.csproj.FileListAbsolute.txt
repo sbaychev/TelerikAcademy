@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\bin\Debug\Task_1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\bin\Debug\Task_1.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\obj\Debug\Task_1.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_9_Exam_Prep\Cshar_ Fundamentals_2011_2012_Part 2_Test_Ex\Task_1\obj\Debug\Task_1.pdb

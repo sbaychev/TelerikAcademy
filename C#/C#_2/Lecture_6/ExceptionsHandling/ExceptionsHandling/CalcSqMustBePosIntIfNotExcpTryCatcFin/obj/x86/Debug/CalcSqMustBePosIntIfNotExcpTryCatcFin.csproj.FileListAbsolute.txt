@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\bin\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\bin\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\bin\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\bin\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_6\ExceptionsHandling\ExceptionsHandling\CalcSqMustBePosIntIfNotExcpTryCatcFin\obj\x86\Debug\CalcSqMustBePosIntIfNotExcpTryCatcFin.csprojResolveAssemblyReference.cache

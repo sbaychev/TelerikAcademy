@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\obj\x86\Debug\6_MaxSumOfKconsArrElofN.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\bin\Debug\NandKMaxSumofN.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\NandKMaxSumofN\obj\x86\Debug\NandKMaxSumofN.pdb

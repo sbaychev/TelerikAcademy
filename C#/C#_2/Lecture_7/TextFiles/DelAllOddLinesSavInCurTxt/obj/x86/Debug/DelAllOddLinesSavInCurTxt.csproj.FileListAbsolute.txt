@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\obj\x86\Debug\DelAllOddLinesSavInCurTxt.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\DelAllOddLinesSavInCurTxt\bin\Debug\DelAllOddLinesSavInCurTxt.pdb

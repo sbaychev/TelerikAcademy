@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DelConsecLetFromConsStrPrintStr\bin\Debug\DelConsecLetFromConsStrPrintStr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DelConsecLetFromConsStrPrintStr\bin\Debug\DelConsecLetFromConsStrPrintStr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DelConsecLetFromConsStrPrintStr\obj\x86\Debug\DelConsecLetFromConsStrPrintStr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DelConsecLetFromConsStrPrintStr\obj\x86\Debug\DelConsecLetFromConsStrPrintStr.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\DelConsecLetFromConsStrPrintStr\obj\x86\Debug\DelConsecLetFromConsStrPrintStr.csprojResolveAssemblyReference.cache

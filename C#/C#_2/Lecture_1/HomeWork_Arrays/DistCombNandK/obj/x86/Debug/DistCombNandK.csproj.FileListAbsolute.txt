@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\DistCombNandK\bin\Debug\DistCombNandK.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\DistCombNandK\bin\Debug\DistCombNandK.pdb
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\DistCombNandK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\DistCombNandK\obj\x86\Debug\DistCombNandK.exe
+C:\Users\Stefan\Desktop\C#_Telerik\Arrays\DistCombNandK\obj\x86\Debug\DistCombNandK.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\DistCombNandK\bin\Debug\DistCombNandK.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\DistCombNandK\bin\Debug\DistCombNandK.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\DistCombNandK\obj\x86\Debug\DistCombNandK.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_1\HomeWork_Arrays\DistCombNandK\obj\x86\Debug\DistCombNandK.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsWordPrintWordAndTimes\bin\Debug\ConsWordPrintWordAndTimes.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsWordPrintWordAndTimes\bin\Debug\ConsWordPrintWordAndTimes.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsWordPrintWordAndTimes\obj\x86\Debug\ConsWordPrintWordAndTimes.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsWordPrintWordAndTimes\obj\x86\Debug\ConsWordPrintWordAndTimes.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\ConsWordPrintWordAndTimes\obj\x86\Debug\ConsWordPrintWordAndTimes.csprojResolveAssemblyReference.cache

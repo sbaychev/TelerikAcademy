@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\bin\Debug\FillsInMatrixSizeD.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\bin\Debug\FillsInMatrixSizeD.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\FillsInMatrixSizeD.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\FillsInMatrixSizeD.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\bin\Debug\FillsInMatrixSizeD.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\bin\Debug\FillsInMatrixSizeD.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\FillsInMatrixSizeD.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\FillsInMatrixSizeD.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_2\8_Lesson_Incomp\MultiDimArrays\FillsInMatrixSizeD\obj\x86\Debug\FillsInMatrixSizeD.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\TxtFileReadInsdMatrOfNumsFindMaxSumInTwBtWo\obj\x86\Debug\TxtFileReadInsdMatrOfNumsFindMaxSumInTwBtWo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_7\TextFiles\TxtFileReadInsdMatrOfNumsFindMaxSumInTwBtWo\obj\x86\Debug\TxtFileReadInsdMatrOfNumsFindMaxSumInTwBtWo.pdb

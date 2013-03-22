@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CalcAndPrintTwoDatesDif\bin\Debug\CalcAndPrintTwoDatesDif.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CalcAndPrintTwoDatesDif\bin\Debug\CalcAndPrintTwoDatesDif.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CalcAndPrintTwoDatesDif\obj\x86\Debug\CalcAndPrintTwoDatesDif.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CalcAndPrintTwoDatesDif\obj\x86\Debug\CalcAndPrintTwoDatesDif.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CalcAndPrintTwoDatesDif\obj\x86\Debug\CalcAndPrintTwoDatesDif.csprojResolveAssemblyReference.cache

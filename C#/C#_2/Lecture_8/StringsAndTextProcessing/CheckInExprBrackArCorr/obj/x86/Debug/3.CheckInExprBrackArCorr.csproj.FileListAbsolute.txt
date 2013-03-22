@@ -1,0 +1,2 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part Two\C#_Two\Lecture_8\StringsAndTextProcessing\CheckInExprBrackArCorr\obj\x86\Debug\CheckInExprBrackArCorr.pdb
