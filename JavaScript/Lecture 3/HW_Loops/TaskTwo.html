@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time
+
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="text" id="tb-number" />
+	<a href="#" id="btn-put-N" onclick="printAllNumbers1toNbutNotDivis21()">print all the numbers from 1 to N not divisible by 3 and 7 at the same time (put in N to the left and Click this text)
+</a>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+
+		function printAllNumbers1toNbutNotDivis21() {
+
+			var number = jsConsole.readInteger("#tb-number");
+			var counter = 1;
+			while (number > 0)
+			{
+				if (counter % 21 != 0) 
+				{
+					jsConsole.writeLine(counter);
+				}				
+				counter++;
+				number--;
+			}			
+		}
+	</script>
+</body>
+</html>

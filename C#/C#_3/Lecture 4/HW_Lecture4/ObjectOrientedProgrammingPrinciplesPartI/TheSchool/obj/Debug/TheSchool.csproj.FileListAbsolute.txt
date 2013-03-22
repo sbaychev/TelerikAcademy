@@ -1,0 +1,7 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\bin\Debug\TheSchool.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\bin\Debug\TheSchool.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\obj\Debug\TheSchool.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\bin\Debug\TheSchool.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\bin\Debug\TheSchool.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\obj\Debug\TheSchool.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 4\HW_Lecture4\ObjectOrientedProgrammingPrinciplesPartI\TheSchool\obj\Debug\TheSchool.pdb

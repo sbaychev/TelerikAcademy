@@ -1,0 +1,6 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\bin\Debug\Task3.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\bin\Debug\Task3.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\bin\Debug\Task3.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\obj\Debug\Task3.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task3\obj\Debug\Task3.pdb

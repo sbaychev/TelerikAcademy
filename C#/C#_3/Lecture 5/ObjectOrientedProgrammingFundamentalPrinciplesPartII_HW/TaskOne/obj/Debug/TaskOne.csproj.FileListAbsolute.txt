@@ -1,0 +1,10 @@
+c:\users\stefan\documents\visual studio 2012\Projects\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\bin\Debug\TaskOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\bin\Debug\TaskOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\obj\Debug\TaskOne.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\obj\Debug\TaskOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskOne\obj\Debug\TaskOne.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskOne\obj\Debug\TaskOne.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskOne\obj\Debug\TaskOne.pdb

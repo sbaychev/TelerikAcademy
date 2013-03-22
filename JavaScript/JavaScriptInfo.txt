@@ -1,0 +1,4 @@
+Object Oriented JavaScript - Stoyan Stefanov
+Pro JavaScript Design Patterns
+Pro JavaScript Techniques
+JavaScript for Abosolute Beginners

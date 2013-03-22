@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements.
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function ProductNumsPlusMinusSign (x, y, z) 
+	{
+if( (x>0 && y>0 && z> 0)||(x < 0 && y < 0 && z > 0)||(x < 0 && y > 0 && z < 0) ||(x > 0 && y < 0 && z < 0) )
+		{
+			jsConsole.writeLine("+");
+		} 
+		 else
+		 {
+		 	jsConsole.writeLine("-");
+		 };
+	}
+		var x = prompt("Please enter the first number");
+		var y = prompt("Please enter the second number");
+		var z = prompt("Please enter the third number");
+		var x = parseInt(x);
+		var y = parseInt(y);
+		var z = parseInt(z);
+		jsConsole.writeLine(x);
+		jsConsole.writeLine(y);
+		jsConsole.writeLine(z);
+		jsConsole.writeLine();
+		ProductNumsPlusMinusSign(x, y, z);
+
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>An expression that checks if given integer is odd or even</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var x = prompt("Please enter a number");
+		var oddOrEven = (parseInt(x) % 2 == 0);
+		if (oddOrEven) 
+		{
+			jsConsole.writeLine("even");
+		} 
+		else{
+			jsConsole.writeLine("odd");
+		};	
+	</script>
+</body>
+</html>

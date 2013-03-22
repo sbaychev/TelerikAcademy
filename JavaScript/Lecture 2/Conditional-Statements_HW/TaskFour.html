@@ -1,0 +1,76 @@
+<html>
+<head>
+	<title>Sort 3 real values in descending order using nested if statements.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var x = prompt("Please enter the first number");
+		var y = prompt("Please enter the second number");
+		var z = prompt("Please enter the third number");
+		jsConsole.write("x = ");
+		jsConsole.writeLine(x);
+		jsConsole.write("y = ");
+		jsConsole.writeLine(y);
+		jsConsole.write("z = ");
+		jsConsole.writeLine(z);
+		jsConsole.writeLine();
+	if (x >= y && x >= z)
+            {
+                if (y >= z)
+                {
+                    		jsConsole.writeLine(x);
+							jsConsole.writeLine(y);
+							jsConsole.writeLine(z);
+                }
+                else
+                {
+                    		jsConsole.writeLine(x);
+							jsConsole.writeLine(z);
+							jsConsole.writeLine(y);
+                }
+            }
+            else
+            {
+                if (y >= z)
+                {
+                    if (x >= z)
+                    {
+                        	jsConsole.writeLine(y);
+							jsConsole.writeLine(x);
+							jsConsole.writeLine(z);
+                    }
+                    else
+                    {
+                        	jsConsole.writeLine(y);
+							jsConsole.writeLine(z);
+							jsConsole.writeLine(x);
+                    }
+                }
+                else
+                {
+                    if (x >= z)
+                    {
+                            jsConsole.writeLine(x);
+							jsConsole.writeLine(z);
+							jsConsole.writeLine(y);
+                    }
+                    else if (y >= x)
+                    {
+                            jsConsole.writeLine(z);
+							jsConsole.writeLine(y);
+							jsConsole.writeLine(x);
+                    }
+                    else
+                    {
+                    	    jsConsole.writeLine(z);
+							jsConsole.writeLine(x);
+							jsConsole.writeLine(y);
+                    }
+                }
+            }
+	</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function isPointInPoly(poly, pt)
+	{
+		for(var c = false, i = -1, l = poly.length, j = l - 1; ++i < l; j = i)
+		((poly[i].y <= pt.y && pt.y < poly[j].y) || (poly[j].y <= pt.y && pt.y < poly[i].y))
+		&& (pt.x < (poly[j].x - poly[i].x) * (pt.y - poly[i].y) / (poly[j].y - poly[i].y) + poly[i].x)
+		&& (c = !c);
+		return c;
+	}
+		var x = prompt("Please enter x");//try 4 for x - if you want it inside the rect
+		var y = prompt("Please enter y");//try -2 for y - if you want it inside the rect
+		var x = parseInt(x);
+		var y = parseInt(y);
+		var inCirc = Math.sqrt(3) >= Math.sqrt( ( ( (1-x)*(1-x) ) + ( (1-y)*(1-y) ) ) );
+	points = [
+	{x: 1, y: -1},
+	{x: 1, y: -3},
+	{x: 7, y: -1},
+	{x: 7, y: -3}
+];//coordinates of the rectangle type of polygon, assuming it is parallel to the x-axis
+ 	var isInRect = (isPointInPoly(points, {x: x, y: y}) ? true : false);
+ 	var inCircAndOutRect;
+	jsConsole.writeLine(inCirc && !isInRect); //if evaluated to true -> means the point is in circle and out of the rectangle, else one of the preconditions is not right -> false
+	</script>
+</body>
+</html>

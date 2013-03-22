@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Write a script that finds the max and min number from a sequence of numbers
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="text" id="tb-number" />
+	<a href="#" id="btn-put-N" onclick="MaxMinSeq()">Find the Min and Max of the given arr bellow sequence:
+</a>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+			var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+			jsConsole.writeLine("--------------------------");
+			for (var property in arr)
+			{	
+				jsConsole.writeLine("arr[" + property + "] = " + arr[property]);
+			}	
+			jsConsole.writeLine("--------------------------");
+			jsConsole.writeLine();
+		MaxMinSeq(arr);
+		function MaxMinSeq(obj)
+		{			
+			Array.max = function( arr ){
+			    return Math.max.apply( Math, arr );
+			};
+			 
+			Array.min = function( arr ){
+			    return Math.min.apply( Math, arr );
+			};
+			var min = Array.min(arr);
+			var max = Array.max(arr);
+
+			jsConsole.writeLine("Min = " + min);
+			jsConsole.writeLine("Max = " + max);
+		}
+	</script>
+</body>
+</html>

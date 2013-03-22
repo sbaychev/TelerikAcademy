@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title>Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var x = prompt("Please enter the first number");
+		var y = prompt("Please enter the second number");
+		var x = parseInt(x);
+		var y = parseInt(y);
+		jsConsole.writeLine(x);
+		jsConsole.writeLine(y);
+		jsConsole.writeLine();
+		var temp;
+		if (x > y) 
+		{
+			temp = x;
+			x = y;
+			y = temp;
+		} 
+		else
+		{
+		};	
+		jsConsole.writeLine(x);
+		jsConsole.writeLine(y);
+	</script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\DynamicTypes\bin\Debug\DynamicTypes.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\DynamicTypes\bin\Debug\DynamicTypes.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\DynamicTypes\obj\x86\Debug\DynamicTypes.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\DynamicTypes\obj\x86\Debug\DynamicTypes.pdb

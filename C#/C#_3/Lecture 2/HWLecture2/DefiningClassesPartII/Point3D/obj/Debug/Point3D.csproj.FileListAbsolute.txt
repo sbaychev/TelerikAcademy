@@ -1,0 +1,9 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\bin\Debug\Point3D.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\obj\Debug\Point3D.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\DefiningClassesPartII\Point3D\obj\Debug\Point3D.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HWLecture2\DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HWLecture2\DefiningClassesPartII\Point3D\obj\Debug\Point3D.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HWLecture2\DefiningClassesPartII\Point3D\obj\Debug\Point3D.pdb

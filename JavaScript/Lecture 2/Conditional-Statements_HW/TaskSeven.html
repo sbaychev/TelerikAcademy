@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Write a script that finds the greatest of given 5 variables.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function FiveGreater (fiveVar) 
+	{
+            var greater = fiveVar[0];
+
+            for (var i = 0; i < fiveVar.length; i++)
+            {
+                greater = fiveVar[i] > greater ? fiveVar[i] : greater;
+            }
+            jsConsole.writeLine("The Greatest of the provided 5 variables is: " + greater);
+	}
+		var x = prompt("Please enter the first number");
+		var y = prompt("Please enter the second number");
+		var z = prompt("Please enter the third number");
+		var w = prompt("Please enter the fourth number");
+		var f = prompt("Please enter the fifth number");
+
+		var x = parseInt(x);
+		var y = parseInt(y);
+		var z = parseInt(z);
+		var w = parseInt(w);
+		var f = parseInt(f);
+		jsConsole.writeLine(x);
+		jsConsole.writeLine(y);
+		jsConsole.writeLine(z);
+		jsConsole.writeLine(w);
+		jsConsole.writeLine(f);
+		jsConsole.writeLine();
+
+		var array = new Array(x, y, z, w, f);
+
+		FiveGreater(array);
+
+</script>
+</body>
+</html>

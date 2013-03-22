@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>Write a script that finds the biggest of three integers using nested if statements.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function BiggestNumThree (x, y, z)
+	{
+			if (x >= y && x >= z)
+            {
+             jsConsole.writeLine("The first integer x is Greater or equal to any of the other two y and z");
+
+            }
+            else
+            {
+                if(y >= z)
+	            {
+		    jsConsole.writeLine("The second integer y is Greater or equal to any of the other two z and x");
+                }
+                else
+                {
+                   jsConsole.writeLine("The third integer z is Greater to the other two x and y");
+                }
+            }
+	}
+		var x = prompt("Please enter the first number");
+		var y = prompt("Please enter the second number");
+		var z = prompt("Please enter the third number");
+		var x = parseInt(x);
+		var y = parseInt(y);
+		var z = parseInt(z);
+		jsConsole.writeLine(x);
+		jsConsole.writeLine(y);
+		jsConsole.writeLine(z);
+		jsConsole.writeLine();
+		BiggestNumThree(x, y, z);
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+C:\Dropbox\Work\VariousTests\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Exam\AcademyGeometry\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb

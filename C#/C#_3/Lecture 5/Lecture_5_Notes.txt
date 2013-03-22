@@ -1,0 +1,72 @@
+OOP Fundamental Principles - Part II
+
+3 Practical Tasks - exam stuff
+One task to be written - a task to be finished in class assignment
+At the end group task - team task
+
+Polymorphism
+	ability to take more than one form (objects have more than one type)
+	- A class can be used through its parent interface
+	- A child class may override some of the behaviors of the parent class
+Virtual Method is:
+	Defined in a base class and can be changed (overriden) in the descendant classes
+	Can be called through the base class' interface
+Virtual methods are declared through the keyword virtual
+	public virtual void Draw() { ... }
+Methods declared as virtual in a base class and can be overriden using the keyword override
+	public override void Draw() { ... }
+
+Abstract methods are purely virtual
+	If a method is abstract -> it is virtual as well
+	Abstract methods are designed to be changed (overriden) later
+Interface members are also purely virtual
+	They have no default implementation and are designed to be overridden in a descendent class
+	Virtual methods can be hidden through the new keyword
+The override Modifier
+	Using override we can modify a method or property
+		An override method provides a replcement implementation
+		of an inherited member
+		You can not override a non-virtual or static method
+	The overridden base method must be virtual, abstract, or override
+Polymorphism - how it works ?
+	Polymorphism ensures that the appropriate method of the subclass is called through its base class' interface
+
+	Polymorphism is implemented using a technique called ! late method binding !
+		The exact method to be called is determined at runtime, just before performing the call
+		Applied for all abstract/ virtual methods
+	Note: Late binding is a bit slower than normal (early) binding
+
+An application consists of controls:
+	Buttons, panels, text boxes, menus, check boxes, radio buttons, etc.
+Class Control - the root of our OO hierarchy
+	All controls can be painted on the screen
+		Should implement an interface IPaintable with a method Paint()
+	Common properties: location, size, text, face, color, background color, etc.
+Operator ! is ! checks if a given variable is of certain type
+Cohesion and Coupling
+	Cohesion describes
+		How closely the routines in a class or the code in routine supports a central purpose
+	Cohesion must be strong
+		Well-defined abstractions keep cohesion strong
+	Classes must contain strongly related functionality and aim for single purpose
+	Cohesion is a powerful tool for managing complexity
+Coupling
+	Coupling describes how tightly a class or routine is related to other classes or routines
+	Coupling must be kept loose
+		Modules must depend little on each other
+			Or be entirely independent (loosly coupled)
+		All classes/ routines must have small, direct, visible, and flexible relationships to 
+			other classes/ routines
+		One module must be easily used by other modules
+	Loose Coupling:
+		Easily replace old HDD
+		Easily place this HDD to another motherboard
+	Tight Coupling:
+		Where is the video adapter?
+		Can you change the video controller?
+OOP fundamental principles are: inheritance, encapsulation, abstraction, polymorphism
+	Inheritance allows inheriting members from another class
+	Abstraction and encapsulation hide internal data and allow working through abstract interface
+	Polymorphism allows working with objects through their parent interface
+Exception classes are natural to OOP
+Strong cohesion and loose coupling -> They avoid spaghetti code !!

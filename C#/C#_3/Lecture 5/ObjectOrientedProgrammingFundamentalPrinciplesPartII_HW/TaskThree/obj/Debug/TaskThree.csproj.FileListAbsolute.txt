@@ -1,0 +1,8 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskThree\bin\Debug\TaskThree.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskThree\bin\Debug\TaskThree.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskThree\bin\Debug\TaskThree.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskThree\obj\Debug\TaskThree.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskThree\obj\Debug\TaskThree.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskThree\bin\Debug\TaskThree.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskThree\obj\Debug\TaskThree.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciplesPartII_HW\TaskThree\obj\Debug\TaskThree.pdb

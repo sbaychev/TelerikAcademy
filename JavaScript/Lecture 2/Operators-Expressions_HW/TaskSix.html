@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>Write an expression that checks if given print (x,  y) is within a circle K(O, 5).</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var x = prompt("Please enter a number for X");
+		var y = prompt("Please enter a number for Y");
+		var isIn = Math.sqrt(5) >= Math.sqrt( ( ((0-parseInt(x)) * (0-parseInt(x))) + ((5-parseInt(y)) * (5-parseInt(y))) ) );
+		if (isIn) 
+		{
+			jsConsole.writeLine("is inside");
+		} 
+		else
+		{
+			jsConsole.writeLine("is Not inside");
+		};	
+	</script>
+</body>
+</html>

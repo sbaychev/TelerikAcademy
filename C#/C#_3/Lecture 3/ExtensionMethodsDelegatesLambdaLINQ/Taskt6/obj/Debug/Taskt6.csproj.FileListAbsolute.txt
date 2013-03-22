@@ -1,0 +1,8 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\bin\Debug\Taskt6.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\bin\Debug\Taskt6.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\bin\Debug\Taskt6.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\obj\Debug\Taskt6.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\obj\Debug\Taskt6.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\bin\Debug\Taskt6.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\obj\Debug\Taskt6.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Taskt6\obj\Debug\Taskt6.pdb

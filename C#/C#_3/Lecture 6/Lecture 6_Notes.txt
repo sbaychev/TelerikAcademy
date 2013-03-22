@@ -1,0 +1,100 @@
+Common Type System
+	What is a Common Type System
+		.NET Common Type System (CTS)
+		Define CLR supported
+			Data types
+			Operations performed on them
+		Extends the compatability between different .NET languages
+		Supports two types of data
+			Value types
+			Reference types
+		All data types are inheritors of System.Object
+	.NET CTS Types Hierarchy
+		Types (System.Object) -> is the root element of all other elements in .NET
+	The System.Object.Type
+		Base class for each .NET type
+			Inherited by default when a new type is defined
+		Important virtual methods
+			Equals() - comparison with other object
+			ToString() - represents the object as a string
+			GetType() - used for reflection
+			GetHashCode() - evaluates the hash code (used with has-tables)
+			Finalize() - used for clean up purposes when an object is disposed
+	Overriding System.Object's.Virtual Methods
+		By default the operator == calls the ReferenceEquals() method
+			Compares the addresses for reference types
+			Or the binary representation for value types
+		The method Equals(), GetHashCode() should be defind at the same time
+			The same applies for the operator == and !=
+			You can override Equals() and use its implemntation for == and !=
+
+The operator as does an explicit conversion of data types.
+
+The System.Object type has some other methods, which are inherited by all .NET types:
+	GetType()
+		Returns type's metadata as a System.Type
+	MemberwiseClone()
+		Copies the binary representation of the variable into a new variable (shallow clone)
+			-> keeps the reference type value - points to the same location
+	ReferenceEquals()
+		Compares if two objects have the same reference
+Type Operators in C#
+	The is operator
+		Checks if an object ! is ! an instance of some type
+		Polymorphic operation
+			5 is Int32
+			5 is object
+			5 is IComparable<int>
+	The ! as ! operator
+		Casts a reference type to another reference type
+		Returns null value if it fails
+			E.g. if the types are incompatible
+Object Cloning
+	In programming cloning an object means to create an identical copy of certain object
+	Shallow cloning (shallow copy)
+		Uses the protected MemberwiseClone() method
+		Copies the value types bit by bit (binary)
+		Copies only the addresses of the reference types
+	Deep cloning (deep copy)
+		Recursively copies all member data
+		Implemented manually by the programmer
+	Types which allow cloning to implement the IClonable interface
+	The Clone() method of the IClonable
+		The only method of the interface
+		Returns an identical copy of the object
+			Returns object -> must be cast later
+		You decide whether to create a deep or shallow copy or something between
+IComparable<T> Interface
+	The System.IComparable<T>interface
+		Implemented by the types, which can be compared (ordered in increasing order)
+	The CompareTo(T) method defines the comparison. It returns:
+		0
+		> 0
+		< 0
+	Yield Return in C#
+	The yield return construct in C# simplifies sequential read-only iterator
+Value types
+	Store their values in the stack
+	Can not hold null value
+	Destroyed when the given variable goes out fo scope
+	When a method is called they are:
+		Passed by value
+		Stored in the stack (copied)
+	Inherit System.ValueType
+	Value types are:
+		Primary types
+			int, char
+			float, bool
+			Others
+		Structures
+		Enumerations (enumerable types)
+Reference Types
+	Implemented as type-safe pointers to objects // type
+	Stored in the dynamic memory
+	When a method is called they are passed by reference (by their address)
+	Automatically destroyed by the CLR Garbage Collector, when they are out of scope or they are not in use
+	! Can ! hold null value
+It is possible for many variables to point to one and the same reference type object
+Referent objects are:
+	
+		

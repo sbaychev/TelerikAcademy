@@ -1,0 +1,150 @@
+Fundamental Principles of OOP:
+
+	Inheritance
+		Inherit members form parent class
+			Keep the DRY principle - Do not Reapeat Yourself	
+	Abstraction
+		Define and execute abstract actions
+	Encapsulation
+		Hide the internals of a class - Hide though Properties, so that we can keep the state of the object as is
+	Polymorphism
+		Access a class through its parents interfaces
+
+Every Object type has Four methods to inherit:
+	ToString
+	Equals
+	GetType
+	GetHashCode
+
+Using ! virtual ! keyword for a method, we can override the method somewehere down the line of childs that inherit it
+
+Types of Iheritance:
+	Derived Class 	- inherits - 	base class/ parent class
+	Class 		- implements -  	interface
+	Derived interface	- extends-  	base interface
+
+Inheritance - Benefits
+	Extensibility
+	Reusability (code reuse)
+	Provides abstraction
+	Eliminates redundant code
+Use inheritance for building is-a relationships
+	E.g. dog is-a animal (dogs are kind of animals)
+Do not use inheritance to build has-a relationship
+	E.g. dog has-a name (dog is not kind of name)
+
+Inheritance implicitly gains all members from another class
+	All fields, properties, methods, events
+	Some members could be inaccessible (hidden)
+The class whose methods are inherited is called base (parent) class
+The class that gains new functionality is called derived (child) class
+
+Use the keyword base to invoke the parent constructor:
+	Example: public Circle (int x, int y) : base(x)
+	{ ... }
+Access Levels
+	public - access is not restricted
+	private - access is restricted to the containing type
+	protected -access is limited to the containing type and types derived from it
+	internal - access is limited to the current assembly 
+			- if a class has not been defined as any of the above Three-3, it is by default internal!!
+	protected internal - access is limited to the current assembly or types derived from the containing class
+
+Inheritance: Important Aspects
+	Structures can not be inherited
+	In C# there is no multiple inhertitance
+		Only multiple interfaces can be implemented
+	Static members are not inherited
+	Constructors are not inherited
+		Valid for both instance and static constructors
+	Inheritance is transitive relation
+		If C is derived from B, and B is derived from A, then C inherits A as well !!!
+When a derived classextends its base class
+	It can freely add new members
+	Cannot remove derived ones
+Declaring new members with the same name or signatire hides the inherited ones
+A class can declare virtual methods and properties
+	Derived classes can override the implementations of these members
+	E.g. Object.ToString() is virtual method
+Abstraction
+	Abstraction means ignoring irrelevant features, properties, or functions and emphasizing the relevant ones..
+		? Relevant to what ?
+	...relevant to the given project !
+		With and eye to the future reuse in similar projects
+	Abstraction helps managing complexity
+	Abstraction is something we do every day
+		Looking at an object, we see those things about it that have meaning to us
+		We abstract the properties of the object, and keep what we need
+		E.g. student get "name" but not "color of eyes"
+	Allows us to represent a complex reality in terms of a simplified model
+	Abstraction hightlights the properties of an entity that we need and hides the others
+Interfaces
+	An interface defines a set of operations (methods) that a given object should perform
+		Also called "contract" for providing a set of operations
+		Defines abstract behaviour
+	Interfaces provide abstractions
+		You invoke the abstract actions
+		Without worrying how it is internally implemented
+	Interfaces describe a prototype of group of methods (operations), properties and events
+		Can be implemented by a give class or structure
+		Define only the prototypes of the operations
+			No concrete implementation is provided
+		Can be used to define abstract data types
+		Can be inhereted (extended) by other interfaces
+		Can not be instantiated
+	Classes and structures can implement (support) one or several interfaces
+	Implementer classes must implement all interface methods
+		Or should be declared abstract
+Abstract Class
+	Abstract classes are special classes defined with the keyword abstract
+		Mix between class and interface
+		Partially implemented or fully implemented
+		Not implemented methods are declared abstract and are left empty
+		Can not be instantiated directly
+	Child classes should implement all abstract methods or be declared as abstract too!!
+	Abstract methods are an empty methods without implementation
+		The implementation is intentionally left for the descendent classes
+	When a class contains at least one abstract method, it is called abstract class
+	Abstract Classes model abstract concepts
+		E.g. person, object, item, movable object
+Interfaces Vs Abstract Classes
+	C# interfaces are like abstract classes, but in contrast interfaces:
+		Can not contain methods with implementions
+			All interface methods are abstract
+		Members do not have scope modifiers
+			Their scope is assumed public
+			But this is not specified explicitly
+		Can not define fields, constants, inner types and constructors
+Abstract Data Types
+	Abstract Data Types (ADT) are data types defined by a set of operations (interface)
+	Example: IList<T> in .NET Framework
+Inheritance Hierarchies
+	Using inheritance we can create inheritance hierarchies
+		Easily represented by UML class diagrams
+	UML class diagrams
+		Classes are represented by rectangles containing their methods and data	
+		Relations between classes are shown as arrows
+			Closed triangle arrows means inheritance
+			Other arrows mean some kind of associations
+Encapsulation
+	Encapsulation hides the implementation details
+	Class announces some operation (methods) available for its clients - its public interface
+	All data members (fields) of a class should be hidden
+		Accessed via properties (read-only and read-write)
+	No interface members should be hidden
+	Data fields are private
+	Constructors and accessors are defined (getters and setters)
+Encapsulation in .NET
+	Fields are always declared private
+		Accessed through properties in read-only or read-write mode
+	Constructors are almost always declared public
+	Interface mehods are always public
+		Not explicitly declared public
+	Non-interface methods are declared private/ protected
+Encapsulation - Benefits
+	Ensures that structural changes remain local:
+		Changing the class internals does not affect any code outside of the class
+		Changing method's implementation does not reflect the clients using them
+	Encapsulation allows adding some logic when accessing client's data
+		E.g. validation on modifying a property value
+	Hiding implementation details results in reducing complexity - easier maintanance

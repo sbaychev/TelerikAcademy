@@ -1,0 +1,49 @@
+Lecture 2
+
+http://jsbin.com
+
+Always use ! var ! to declare a variable.
+
+ECMA script is the standard for JavaScript, it is based on it.
+
+
+Data wrappers in JavaScript:
+Array
+Number
+Object
+String
+	We can simply put in the expected value, like string in the var and not put the Data Wrapper
+	var num = 5; is the same as
+		var num = Number(5);
+We can parse variables via:		parseVARIABLETYPE
+Every arithmetic operation in JavaScript returns a NUMBER
+
+In variables there is variable hoisting
+When we declare and initialize a variable we can use it only afte it, but if we do it seperate - > we can use it before it is even declared and initialized
+
+functions can be used anywhere in the code, regardless of their initializzation place...
+
+
+Operators in JavaScript:
+	Unary - take one operand
+	Binary - take two operands
+	Ternary - ( ?: ) - takes three operands
+
+All floating point numbers are double
+
+Upon using Xor on Booleans, the return value is 1 or 0, not a True or False !!
+String to Number comparison is equalized to number and comparison is made
+
+ === Operator compares types !!
+
+In JavaScript All data can be "upcast" to whatever is being passed, needed in the situation
+
+HW - Misho
+
+Drop-Down Menu - not using CSS, nested list with items
+	hover effect on the item
+		upon howver some text what not would appear - 
+	upon click - slide animation and the item disappears, goes to the left/ right and disappears
+		or
+	gets strike-through
+		click " X " button to make things dissapear

@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\DefineClass\MobPhoneClass\bin\Debug\MobPhoneClass.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\DefineClass\MobPhoneClass\bin\Debug\MobPhoneClass.pdb
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\DefineClass\MobPhoneClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\DefineClass\MobPhoneClass\obj\x86\Debug\MobPhoneClass.exe
+C:\Users\Ivan\Desktop\Stefan\C#_Telerik\DefineClass\MobPhoneClass\obj\x86\Debug\MobPhoneClass.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 1\DefineClass\MobPhoneClass\obj\x86\Debug\MobPhoneClass.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 1\DefineClass\MobPhoneClass\obj\x86\Debug\MobPhoneClass.pdb

@@ -1,0 +1,8 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task7\bin\Debug\Task7.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task7\bin\Debug\Task7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task7\bin\Debug\Task7.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task7\obj\Debug\Task7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task7\obj\Debug\Task7.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Task7\bin\Debug\Task7.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Task7\obj\Debug\Task7.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 3\ExtensionMethodsDelegatesLambdaLINQ\Task7\obj\Debug\Task7.pdb

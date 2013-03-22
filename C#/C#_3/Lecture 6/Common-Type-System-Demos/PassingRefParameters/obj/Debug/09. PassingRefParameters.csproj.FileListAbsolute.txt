@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingRefParameters\bin\Debug\PassingRefParameters.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingRefParameters\bin\Debug\PassingRefParameters.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingRefParameters\obj\Debug\PassingRefParameters.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingRefParameters\obj\Debug\PassingRefParameters.pdb

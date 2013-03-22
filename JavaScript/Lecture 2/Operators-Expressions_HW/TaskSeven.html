@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var x = prompt("Please enter a number greater than 0");
+		var isIn = ( (parseInt(x) % 2 == 0 && parseInt(x) != 2) || (parseInt(x) % 3 == 0 && parseInt(x) != 3) || (parseInt(x) % 5 == 0 && parseInt(x) != 5) || (parseInt(x) % 7 == 0 && parseInt(x) != 7) );
+		if (!isIn) 
+		{
+			jsConsole.writeLine("is prime");
+		} 
+		else
+		{
+			jsConsole.writeLine("Not a prime");
+		};	
+	</script>
+</body>
+</html>

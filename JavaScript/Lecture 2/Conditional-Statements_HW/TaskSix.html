@@ -1,0 +1,49 @@
+<html>
+<head>
+	<title>Write a script that enters the coefficients a, b and c of a quadratic equation
+		a*x2 + b*x + c = 0
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function RealRootsQuadExpr (a, b, c) 
+	{	
+ 			var varXOne = 0;
+            var varXTwo = 0;
+            var varDiscrim = ( ( (b) * (b) ) + ( -4 * (a * c) ) );
+
+            jsConsole.writeLine("The equation's Discriminant is " + varDiscrim);
+            if (varDiscrim < 0)
+            {
+                jsConsole.write("The equation has no real roots");
+            }
+            else if (varDiscrim > 0)
+            {
+                varXOne = ((((-1) * ( b)) - (Math.sqrt(varDiscrim))) / (2 * a));
+                varXTwo = ((((-1) * ( b)) + (Math.sqrt(varDiscrim))) / (2 * a));
+                jsConsole.write("The equation has two real roots x1 =" + varXOne, "and x2 = " + varXTwo);
+            }
+            else if (varDiscrim == 0)
+            {
+                jsConsole.write( "The equation has one real root x1 = x2 = ");
+                jsConsole.write( (-( b / (2 * a))) );
+            } 
+	}
+		var a = prompt("Please enter the first number");
+		var b = prompt("Please enter the second number");
+		var c = prompt("Please enter the third number");
+		var a = parseInt(a);
+		var b = parseInt(b);
+		var c = parseInt(c);
+		jsConsole.writeLine(a);
+		jsConsole.writeLine(b);
+		jsConsole.writeLine(c);
+		jsConsole.writeLine();
+		RealRootsQuadExpr(a, b, c);
+
+</script>
+</body>
+</html>

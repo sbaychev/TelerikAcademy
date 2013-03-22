@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ObjectCloning\bin\Debug\_3.ObjectCloning.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ObjectCloning\bin\Debug\_3.ObjectCloning.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ObjectCloning\obj\x86\Debug\_3.ObjectCloning.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ObjectCloning\obj\x86\Debug\_3.ObjectCloning.pdb

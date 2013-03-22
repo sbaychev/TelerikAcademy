@@ -1,0 +1,4 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingOutParameters\bin\Debug\PassingOutParameters.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingOutParameters\bin\Debug\PassingOutParameters.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingOutParameters\obj\Debug\PassingOutParameters.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\PassingOutParameters\obj\Debug\PassingOutParameters.pdb

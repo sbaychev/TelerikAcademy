@@ -1,0 +1,63 @@
+﻿function testFunction(name){
+console.log(arguments); -> arguments comes to go through all the provided values, takes all of the provided arguments (arguments is a special type of Object)
+}
+
+testFunction(1, 1, "1");
+
+by calling the testFunction  on the console would be displayed:	1, 1, 1
+
+How to capsulate our variables
+Through anonymous function:
+(function() -> through self-invoking anonymous function (self invoking is done through: (some function) and invoked through (); 
+{
+	console.log("OK");	
+})
+();
+when we take as a var function inside a function, we should call it as the var function
+
+function test ()
+{
+	function what()
+	{
+		console.log("OK");
+	}
+}
+var some = test();
+some(); -> so that we can call the console.log("OK");
+
+Function overloading in JavaScript must be faked
+	make it look like overloading
+
+Using Objects - JavaScript
+
+var Student = 
+{
+	name: " Pesho",
+	age: "21",
+	university :  "SU",
+};  -----> this is an Object
+	
+	Class
+	function Student(name, age, university) ---->Constructor
+	{
+		this name = name;
+		this.age = age;
+		this.university = university;
+	}
+var gosho = new Student ("Gosho", 21, "SU");
+
+All Types in JS derive from Object
+	Their type is object
+var number = 5;	//Holds a primitive value of 5
+var numberObj = new Number(5); //Holds reference value of 5
+
+JSON Objects
+	JSON stands for JavaScript Object Notation
+
+var person = {
+	firstName : "Doncho",
+	lastName : "Minkov",
+	toString : function personToString(){
+		return this.firstName + " " + this.lastName;
+		}
+	}

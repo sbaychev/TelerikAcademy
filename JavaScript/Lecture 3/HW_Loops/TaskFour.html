@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset=utf-8>
+<title>Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects
+</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		// 	var list = ["Delta", "alpha", "CHARLIE", "bravo"];
+		// // temporary holder of position and sort-value
+		// var map = [];
+		// // container for the resulting order
+		// var result = [];
+		 
+		// // walk original array to map values and positions
+		// for (var i=0, length = list.length; i < length; i++) {
+		//   map.push({    
+		//     // remember the index within the original array
+		//     index: i, 
+		//     // evaluate the value to sort
+		//     value: list[i].toLowerCase()
+		//   });
+		// }
+		 
+		// // sorting the map containing the reduced values
+		// map.sort(function(a, b) {
+		//   return a.value > b.value ? 1 : -1;
+		// });
+		 
+		// // copy values in right order
+		// for (var i=0, length = map.length; i < length; i++) {
+		//   result.push(list[map[i].index]);
+		// }
+		 
+		// // print sorted list
+		// jsConsole.writeLine(result[0]);
+
+		var doc = document;
+		var win = window;
+		var nav = navigator;
+			// 			jsConsole.writeLine("--------------------------");
+			// for(var prop in doc)
+			// {
+			// 	jsConsole.writeLine(""+prop);
+				
+			// }
+			// jsConsole.writeLine("--------------------------");
+		function lexSmallest(obj)
+		{			
+			 var small = 'z';
+			 jsConsole.writeLine("--------------------------");
+			 for(var prop in obj)
+			 {
+			 	if(small > prop)
+			 		small = prop;
+			 }
+			 jsConsole.writeLine("lexLargest = "+small);
+			 jsConsole.writeLine("--------------------------");
+		}
+		function lexLargest(obj)
+		{
+			var large = 'a';
+			 jsConsole.writeLine("--------------------------");
+			 for(var prop in obj)
+			 {
+			 	if(large < prop)
+			 		large = prop;
+			 }
+			 jsConsole.writeLine("lexSmallest = "+large);
+			 jsConsole.writeLine("--------------------------");
+		}
+		jsConsole.writeLine(doc);
+		lexLargest(doc);
+		lexSmallest(doc);
+		jsConsole.writeLine();
+		jsConsole.writeLine(win);
+		lexLargest(win);
+		lexSmallest(win);
+		jsConsole.writeLine();
+		jsConsole.writeLine(nav);
+		lexLargest(nav);
+		lexSmallest(nav);
+	</script>
+</body>
+</html>

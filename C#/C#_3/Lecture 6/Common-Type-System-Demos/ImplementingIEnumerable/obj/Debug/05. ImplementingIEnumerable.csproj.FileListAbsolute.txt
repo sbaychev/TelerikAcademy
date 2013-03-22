@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ImplementingIEnumerable\bin\Debug\ImplementingIEnumerable.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ImplementingIEnumerable\bin\Debug\ImplementingIEnumerable.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ImplementingIEnumerable\obj\Debug\05. ImplementingIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ImplementingIEnumerable\obj\Debug\ImplementingIEnumerable.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 6\Common-Type-System-Demos\ImplementingIEnumerable\obj\Debug\ImplementingIEnumerable.pdb

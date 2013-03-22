@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task4\bin\Debug\Task4.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task4\bin\Debug\Task4.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task4\bin\Debug\Task4.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task4\obj\Debug\Task4.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 2\HW\ExtensionMethodsDelegatesLambdaLINQ\Task4\obj\Debug\Task4.pdb

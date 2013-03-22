@@ -1,0 +1,5 @@
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskTwo\bin\Debug\TaskTwo.exe.config
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskTwo\bin\Debug\TaskTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskTwo\bin\Debug\TaskTwo.pdb
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskTwo\obj\Debug\TaskTwo.exe
+C:\Users\stefan\Google Drive\Telerik Academy\Part 3_Three\C#\Lecture 5\ObjectOrientedProgrammingFundamentalPrinciples Part II\TaskTwo\obj\Debug\TaskTwo.pdb

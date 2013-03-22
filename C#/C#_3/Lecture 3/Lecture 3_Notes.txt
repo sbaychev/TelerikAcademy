@@ -1,0 +1,74 @@
+﻿Могат да се добавят extension методи на каквото си искам.
+
+var - за създаване на анонимни типове данни. 
+var point = new { X = 3, Y = 5 };
+По време на компилация, компилатора на C# ще генерира автоматично, уникално именуван клас.
+
+Анонимните типове са референтни типове директно извлечени от System.Object.
+Два Анонимни типа макар съдържащи еднакви променливи, е нужно да бъдат е подредени по един и същи начин, за да бъдат еднави по тип.
+
+Можем да дефинираме и използваме масиви от анонимни типове:
+var arr = new[] 
+{ 
+	new { X = 3, Y = 5 }, new { X = 1, Y = 2 }, new { X = 0, Y = 7 }
+};
+foreach (var item in arr)
+{
+	Console.Writeline("{0}, {1}", item.X, item.Y);
+}
+
+Делегати в .NET Framework-a
+
+Делегатите са специални .NET типове които съдържат референция към метод.
+Описват сигнатурата на даден метод, как би трябвало да изглежда
+	Число и тип на параметрите
+	Тип на връщане
+Техните стойности са методи!!
+	За тези методи, техните сигатури съвпадат (параметри и тип на връщане)
+Делегатите са референтни типове.
+Грубо казано, делегатите са подобни на function pointers, като в C и C++;
+Може да сочат към последователност от много методи
+	Познато като мултикаст делегат
+Използва се за да извършва callback инвокации.
+
+public delegate void SimpleDelegate(string param);
+...................
+ static void main()
+{
+	//Instanciate the delegate
+	SimpleDelegate d = new SimpleDelegate(TestMethod);
+	 //Invocation of the method, pointed by delegate
+	d("test"); // The result is the call to the Metod called TestMethod(string param)
+}
+Делегатите могат да бъдат generic:
+	public delegate void SomeDelegate<T>(T item);
+Използвайки generic delegate:
+	public static void Notify(int i) { ... }
+	SomeDelegate<int> d = new SomeDelegate<int>(Notify);
+Горе-посоченото може да бъде записано опростено като: 
+	SomeDelegate<int> d = Notify;
+Делегатите са мултикаст (могат да съдържат множество методи), записани чрез оператора += operator:
+	d += Notify;
+Анонимните Методи са методи без име
+	Могат да приемат параметри и да връщат стойности
+	Декларират се чрез ключовата дума delegate
+	Анонимен Метод може да се запази само в Делегат
+Ламбда Изрази
+Ламбда изразите са анонимни фукнции съдържащи изрази и "становища"
+	Използва се за създаване на делегати или данни от тип изразни дървета
+Ламда Изразите:
+	Използват ламбда оператора =>
+		Който се чете като " отива до "/ " отнася се за "
+	Лявата страна
+	Дясната страна
+Лабда функциите могат да бъдат записани в променливи от тип delegate
+	Делегатите са "написани" референции към функции
+Language Integrated Query (LINQ)
+	query keywords:
+		from - specifies data source and range variable
+		where - filters source elements
+		select - specifies the type and shape that the elements in the returned sequence
+		group - groups query results according to a specified key value
+		orderby - sorts query results in ascending or descending order
+LINQ по принцип е бавен 
+ръчно написан код е добре да бъде написан

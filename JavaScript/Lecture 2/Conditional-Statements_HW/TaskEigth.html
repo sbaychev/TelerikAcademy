@@ -1,0 +1,70 @@
+<html>
+<head>
+	<title>Write a script that converts a n in the range [0...999] to a text corresponding to its English pronunciation. </title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function NumberInEnglish (n) 
+	{
+		var ones = new Array ( "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", 
+			"eighteen", "nineteen" );
+    var tens = new Array ( "twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety" );
+
+		var firstDigit = Math.floor(n / 100);
+        var secondDigit = Math.floor(n / 10);
+        var thirdDigit = n % 10;
+        var hundreds = Math.floor( (n % 100) / 10);
+        var remBy100 = n % 100;
+
+       if (n >= 0 && n < 20)
+        {
+            jsConsole.writeLine(ones[n]);
+        }
+        else if (n >= 20 && n < 100)
+        {
+            if (n % 10 == 0)
+            {
+                jsConsole.writeLine(tens[secondDigit - 2]);
+            }
+            else
+            {
+               jsConsole.writeLine(tens[secondDigit - 2] + " " + ones[thirdDigit]);
+            }
+        }
+        else if (n >= 100 && n < 1000)
+        {
+            if (remBy100 == 0)
+            {
+                jsConsole.writeLine(ones[firstDigit] + " hundred");
+            }
+            else if (remBy100 > 0 && remBy100 < 20)
+            {
+                jsConsole.writeLine(ones[firstDigit] + " hundred " + "and " + ones[remBy100]);
+            }
+            else if (thirdDigit == 0 && remBy100 != 0)
+            {
+                jsConsole.writeLine(ones[firstDigit] + " hundred " + "and " + tens[hundreds - 2]);
+            }
+            else if (thirdDigit == 0)
+            {
+                jsConsole.writeLine(ones[firstDigit] + " hundred " + tens[hundreds - 2]);
+            }
+            else
+            {
+jsConsole.writeLine(ones[firstDigit] + " hundred " + "and " + tens[hundreds - 2] + "-" + ones[thirdDigit]);
+            }
+        }
+	}
+		var x = prompt("Please enter a number");
+		var x = parseInt(x);
+		jsConsole.writeLine(x);
+		jsConsole.writeLine();
+
+		NumberInEnglish(x);
+
+</script>
+</body>
+</html>

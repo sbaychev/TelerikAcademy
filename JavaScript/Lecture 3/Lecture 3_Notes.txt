@@ -1,0 +1,30 @@
+CoffeeScript
+
+petrov@mail.bg
+
+var arr = [1,8, 58, 3, 30, 11, 0];
+
+arr.sort(function);
+
+arr.slice(0,3); -> cuts from the 0 element to the third
+arr.splice(0,3,11,22,33,44) -> takes from the zero element to the third and replaces them with the give
+
+var arr = [[1,2,3], [1,2,3]];
+
+String Builder
+
+var set = [];
+var d = new Date();
+for (var = 0; i < 500000; i++)
+{
+	set.push(i);
+}
+var d1 = new Date();
+console.log(d1-d);
+
+HW
+JavaScript Slider - Carousel
+	Two controls left right
+	Optional Animation
+	To be able to add N number of slides
+	When the last one comes, the first one should be shown
